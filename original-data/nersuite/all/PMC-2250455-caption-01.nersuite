@@ -1,0 +1,26 @@
+O	0	14	Mineralization	Mineralization	NN	B-NP
+O	15	16	(	(	(	O
+O	16	19	red	red	NN	B-NP
+O	19	20	)	)	)	O
+O	21	23	of	of	IN	B-PP
+O	24	27	the	the	DT	B-NP
+B-Multi-tissue_structure	28	33	aorta	aorta	NN	I-NP
+O	34	36	is	be	VBZ	B-VP
+O	37	46	prevented	prevent	VBN	I-VP
+O	47	49	by	by	IN	B-PP
+O	50	55	local	local	JJ	O
+O	56	57	(	(	(	O
+O	57	61	left	left	JJ	B-ADJP
+O	61	62	)	)	)	O
+O	62	63	,	,	,	O
+O	64	67	but	but	CC	O
+O	68	71	not	not	RB	O
+O	72	78	global	global	JJ	O
+O	79	80	(	(	(	O
+O	80	85	right	right	JJ	B-ADVP
+O	85	86	)	)	)	O
+O	86	87	,	,	,	O
+O	88	91	Mgp	Mgp	NN	B-NP
+O	92	102	expression	expression	NN	I-NP
+O	102	103	.	.	.	O
+

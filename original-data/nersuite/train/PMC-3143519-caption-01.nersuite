@@ -1,0 +1,6 @@
+O	0	8	Paederus	Paederus	NN	B-NP
+O	9	19	dermatitis	dermatitis	NN	I-NP
+O	20	29	involving	involve	VBG	B-VP
+O	30	33	the	the	DT	B-NP
+B-Organism_subdivision	34	38	neck	neck	NN	I-NP
+

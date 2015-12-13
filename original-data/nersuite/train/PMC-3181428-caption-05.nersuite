@@ -1,0 +1,9 @@
+O	0	8	Absolute	Absolute	JJ	B-NP
+O	9	18	responder	responder	NN	I-NP
+O	19	24	rates	rate	NNS	I-NP
+O	25	28	for	for	IN	B-PP
+O	29	36	medical	medical	JJ	B-NP
+O	37	47	management	management	NN	I-NP
+O	48	63	recommendations	recommendation	NNS	I-NP
+O	63	64	.	.	.	O
+

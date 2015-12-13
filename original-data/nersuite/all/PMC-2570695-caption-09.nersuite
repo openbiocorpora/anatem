@@ -1,0 +1,20 @@
+O	0	10	Comparison	Comparison	NN	B-NP
+O	11	13	of	of	IN	B-PP
+O	14	17	the	the	DT	B-NP
+O	18	24	number	number	NN	I-NP
+O	25	27	of	of	IN	B-PP
+O	28	33	known	know	VBN	B-NP
+O	34	43	complexes	complex	NNS	I-NP
+O	44	51	matched	match	VBN	B-VP
+O	52	54	by	by	IN	B-PP
+O	55	58	the	the	DT	B-NP
+O	59	68	predicted	predict	VBN	I-NP
+O	69	77	clusters	cluster	NNS	I-NP
+O	78	87	generated	generate	VBN	B-VP
+O	88	90	by	by	IN	B-PP
+O	91	95	IPCA	IPCA	NN	B-NP
+O	96	99	and	and	CC	O
+O	100	105	other	other	JJ	B-NP
+O	106	114	previous	previous	JJ	I-NP
+O	115	125	algorithms	algorithm	NNS	I-NP
+

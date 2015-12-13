@@ -1,0 +1,24 @@
+O	0	8	Appendix	Appendix	NNP	B-NP
+O	9	14	Table	Table	NNP	I-NP
+
+O	15	24	Detection	Detection	NN	B-NP
+O	25	27	of	of	IN	B-PP
+O	28	33	Nipah	Nipah	NNP	B-NP
+O	34	39	virus	virus	NN	I-NP
+O	40	48	antibody	antibody	NN	I-NP
+O	49	54	among	among	IN	B-PP
+O	55	58	bat	bat	NN	B-NP
+B-Organism_substance	59	64	serum	serum	NN	I-NP
+I-Organism_substance	65	72	samples	sample	NNS	I-NP
+O	73	82	collected	collect	VBN	B-VP
+O	83	87	from	from	IN	B-PP
+O	88	90	10	10	CD	B-NP
+O	91	100	provinces	province	NNS	I-NP
+O	101	103	in	in	IN	B-PP
+O	104	109	China	China	NNP	B-NP
+O	109	110	,	,	,	O
+O	111	115	2004	2004	CD	B-NP
+O	115	116	-	-	HYPH	I-NP
+O	116	120	2007	2007	CD	I-NP
+O	120	121	*	*	SYM	B-NP
+

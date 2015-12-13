@@ -1,0 +1,22 @@
+O	0	4	Mean	Mean	JJ	B-NP
+O	5	16	differences	difference	NNS	I-NP
+O	17	19	of	of	IN	B-PP
+O	20	26	scores	score	NNS	B-NP
+O	27	31	with	with	IN	B-PP
+O	32	40	baseline	baseline	NN	B-NP
+O	41	43	of	of	IN	B-PP
+O	44	47	the	the	DT	B-NP
+O	48	50	22	22	CD	I-NP
+O	51	59	patients	patient	NNS	I-NP
+O	60	63	who	who	WP	B-NP
+O	64	72	competed	compete	VBD	B-VP
+O	73	76	all	all	DT	B-NP
+O	77	80	QLQ	QLQ	NN	I-NP
+O	80	81	-	-	HYPH	O
+O	81	84	C30	C30	NN	B-NP
+O	85	99	questionnaires	questionnaire	NNS	I-NP
+O	100	101	-	-	HYPH	B-NP
+O	102	110	symptoms	symptom	NNS	I-NP
+O	111	117	scores	score	NNS	I-NP
+O	117	118	.	.	.	O
+

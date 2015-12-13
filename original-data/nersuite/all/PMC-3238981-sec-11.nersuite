@@ -1,0 +1,61 @@
+O	0	7	Figures	Figure	NNS	B-NP
+
+O	8	11	Fig	Fig	NNP	B-NP
+O	11	12	.	.	.	O
+
+O	13	14	1	1	LS	B-LST
+O	14	15	.	.	.	O
+
+O	16	17	A	A	DT	B-NP
+O	18	22	view	view	NN	I-NP
+O	23	25	of	of	IN	B-PP
+O	26	27	(	(	(	O
+O	27	28	I	I	PRP	B-NP
+O	28	29	)	)	)	O
+O	30	34	with	with	IN	B-PP
+O	35	47	displacement	displacement	NN	B-NP
+O	48	58	ellipsoids	ellipsoid	NNS	I-NP
+O	59	64	drawn	draw	VBN	B-VP
+O	65	67	at	at	IN	B-PP
+O	68	71	the	the	DT	B-NP
+O	72	74	30	30	CD	I-NP
+O	74	75	%	%	NN	I-NP
+O	76	87	probability	probability	NN	I-NP
+O	88	93	level	level	NN	I-NP
+O	93	94	.	.	.	O
+
+O	95	98	Fig	Fig	NNP	B-NP
+O	98	99	.	.	.	O
+
+O	100	101	2	2	LS	B-LST
+O	101	102	.	.	.	O
+
+O	103	113	Stereoview	Stereoview	NN	B-NP
+O	114	116	of	of	IN	B-PP
+O	117	120	the	the	DT	B-NP
+O	121	126	sheet	sheet	NN	I-NP
+O	127	133	formed	form	VBN	B-VP
+O	134	136	by	by	IN	B-PP
+O	137	138	C	C	NN	B-NP
+O	138	139	-	-	HYPH	O
+O	139	140	-	-	SYM	B-NP
+O	140	141	H	H	NN	B-NP
+O	141	142	.	.	.	O
+O	142	143	.	.	.	O
+O	143	144	.	.	''	O
+O	144	146	pi	pi	JJ	B-NP
+O	147	159	interactions	interaction	NNS	I-NP
+O	159	160	.	.	.	O
+
+O	161	169	Hydrogen	Hydrogen	NN	B-NP
+O	170	175	atoms	atom	NNS	I-NP
+O	176	179	not	not	RB	B-VP
+O	180	188	involved	involve	VBN	I-VP
+O	189	191	in	in	IN	B-PP
+O	192	195	the	the	DT	B-NP
+O	196	202	motifs	motif	NNS	I-NP
+O	203	206	are	be	VBP	B-VP
+O	207	210	not	not	RB	I-VP
+O	211	219	included	include	VBN	I-VP
+O	219	220	.	.	.	O
+

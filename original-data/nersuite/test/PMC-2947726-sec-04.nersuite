@@ -1,0 +1,32 @@
+O	0	10	Conclusion	Conclusion	NNP	B-NP
+O	10	11	:	:	:	O
+
+O	12	16	This	This	DT	B-NP
+O	17	22	study	study	NN	I-NP
+O	23	35	demonstrates	demonstrate	VBZ	B-VP
+O	36	40	that	that	IN	B-SBAR
+O	41	48	surgery	surgery	NN	B-NP
+O	49	53	plus	plus	CC	O
+O	54	66	chemotherapy	chemotherapy	NN	B-NP
+O	67	70	and	and	CC	I-NP
+O	71	80	radiation	radiation	NN	I-NP
+O	81	88	therapy	therapy	NN	I-NP
+O	89	91	is	be	VBZ	B-VP
+O	92	99	helpful	helpful	JJ	B-ADJP
+O	100	103	for	for	IN	B-PP
+O	104	112	treating	treat	VBG	B-VP
+O	113	121	patients	patient	NNS	B-NP
+O	122	126	with	with	IN	B-PP
+B-Cancer	127	133	pelvic	pelvic	JJ	B-NP
+I-Cancer	134	139	Ewing	Ewing	NNP	I-NP
+I-Cancer	139	140	'	'	POS	B-NP
+I-Cancer	140	141	s	s	NN	I-NP
+I-Cancer	142	149	sarcoma	sarcoma	NN	I-NP
+O	149	150	,	,	,	O
+O	151	163	particularly	particularly	RB	B-ADVP
+O	164	166	in	in	IN	B-PP
+O	167	176	achieving	achieve	VBG	B-VP
+O	177	182	local	local	JJ	B-NP
+O	183	190	control	control	NN	I-NP
+O	190	191	.	.	.	O
+

@@ -1,0 +1,53 @@
+O	0	7	Figures	Figure	NNS	B-NP
+O	8	11	and	and	CC	I-NP
+O	12	18	Tables	Table	NNS	I-NP
+
+O	19	25	Stages	Stage	NNS	B-NP
+O	26	28	in	in	IN	B-PP
+O	29	32	the	the	DT	B-NP
+O	33	37	life	life	NN	I-NP
+O	38	43	cycle	cycle	NN	I-NP
+O	44	46	of	of	IN	B-PP
+O	47	57	Plasmodium	Plasmodium	NNP	B-NP
+O	58	68	falciparum	falciparum	NNP	I-NP
+
+O	69	70	(	(	(	O
+O	70	82	Illustration	Illustration	NN	B-NP
+O	82	83	:	:	:	O
+O	84	91	Coatney	Coatney	NNP	B-NP
+O	92	94	GR	GR	NNP	I-NP
+O	94	95	,	,	,	O
+O	96	103	Collins	Collins	NNP	B-NP
+O	104	106	WE	WE	NNP	I-NP
+O	106	107	,	,	,	O
+O	108	114	Warren	Warren	NNP	B-NP
+O	115	116	M	M	NNP	I-NP
+O	116	117	,	,	,	O
+O	118	126	Contacos	Contacos	NNP	B-NP
+O	127	129	PG	PG	NNP	I-NP
+O	130	131	(	(	(	O
+O	131	135	1971	1971	CD	B-NP
+O	135	136	)	)	)	O
+
+O	137	140	The	The	DT	B-NP
+O	141	148	primate	primate	JJ	I-NP
+O	149	157	malarias	malaria	NNS	I-NP
+O	157	158	.	.	.	O
+O	159	160	(	(	(	O
+O	160	168	Bethesda	Bethesda	NNP	B-NP
+O	168	169	)	)	)	O
+O	169	170	:	:	:	O
+O	171	172	U	U	NN	B-NP
+O	172	173	.	.	.	I-NP
+O	173	174	S	S	NNP	I-NP
+O	174	175	.	.	.	I-NP
+O	176	186	Department	Department	NNP	I-NP
+O	187	189	of	of	IN	B-PP
+O	190	196	Health	Health	NNP	B-NP
+O	196	197	,	,	,	O
+O	198	207	Education	Education	NNP	B-NP
+O	208	211	and	and	CC	O
+O	212	219	Welfare	Welfare	NNP	B-NP
+O	219	220	.	.	.	O
+O	220	221	)	)	)	O
+

@@ -1,0 +1,37 @@
+O	0	11	CONCLUSIONS	CONCLUSIONS	NNS	B-NP
+
+O	12	15	The	The	DT	B-NP
+O	16	20	lack	lack	NN	I-NP
+O	21	23	of	of	IN	B-PP
+O	24	35	association	association	NN	B-NP
+O	36	43	between	between	IN	B-PP
+O	44	54	depression	depression	NN	B-NP
+O	55	58	and	and	CC	O
+O	59	67	glycemic	glycemic	JJ	B-NP
+O	68	75	control	control	NN	I-NP
+O	76	78	is	be	VBZ	B-VP
+O	79	82	not	not	RB	O
+O	83	86	due	due	JJ	B-ADJP
+O	87	89	to	to	TO	B-PP
+O	90	93	the	the	DT	B-NP
+O	94	97	use	use	NN	I-NP
+O	98	100	of	of	IN	B-PP
+O	101	102	a	a	DT	B-NP
+O	103	109	binary	binary	JJ	I-NP
+O	110	117	measure	measure	NN	I-NP
+O	118	120	of	of	IN	B-PP
+O	121	131	depression	depression	NN	B-NP
+O	131	132	.	.	.	O
+
+O	133	141	Findings	Finding	NNS	B-NP
+O	142	149	further	further	RB	B-ADVP
+O	150	157	clarify	clarify	VBP	B-VP
+O	158	161	the	the	DT	B-NP
+O	162	173	significant	significant	JJ	I-NP
+O	174	185	association	association	NN	I-NP
+O	186	193	between	between	IN	B-PP
+O	194	202	distress	distress	NN	B-NP
+O	203	206	and	and	CC	I-NP
+O	207	210	A1C	A1C	NN	I-NP
+O	210	211	.	.	.	O
+

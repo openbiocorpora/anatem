@@ -1,0 +1,11 @@
+O	0	5	Large	Large	JJ	B-NP
+B-Pathological_formation	6	13	nodular	nodular	JJ	I-NP
+I-Pathological_formation	14	21	hepatic	hepatic	JJ	I-NP
+I-Pathological_formation	22	29	flexure	flexure	NN	I-NP
+I-Pathological_formation	30	37	lesions	lesion	NNS	I-NP
+O	38	40	as	as	IN	B-SBAR
+O	41	45	seen	see	VBN	B-VP
+O	46	48	on	on	IN	B-PP
+O	49	60	Colonoscopy	Colonoscopy	NNP	B-NP
+O	60	61	.	.	.	O
+

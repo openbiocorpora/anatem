@@ -1,0 +1,34 @@
+O	0	3	Aim	Aim	NNP	B-NP
+
+O	4	8	This	This	DT	B-NP
+O	9	14	study	study	NN	I-NP
+O	15	22	reports	report	VBZ	B-VP
+O	23	26	the	the	DT	B-NP
+O	27	34	results	result	NNS	I-NP
+O	35	37	of	of	IN	B-PP
+O	38	39	a	a	DT	B-NP
+O	40	45	large	large	JJ	I-NP
+O	46	57	prospective	prospective	JJ	I-NP
+O	58	64	single	single	JJ	I-NP
+O	64	65	-	-	HYPH	I-NP
+O	65	72	blinded	blind	VBN	I-NP
+O	73	81	clinical	clinical	JJ	I-NP
+O	82	87	trial	trial	NN	I-NP
+O	88	90	of	of	IN	B-PP
+O	91	92	3	3	CD	B-NP
+O	93	97	SSRI	SSRI	NN	I-NP
+O	98	99	(	(	(	O
+O	99	109	paroxetine	paroxetine	NN	B-NP
+O	109	110	,	,	,	O
+O	111	121	fluoxetine	fluoxetine	NN	B-NP
+O	122	125	and	and	CC	O
+O	126	138	escitalopram	escitalopram	NN	B-NP
+O	138	139	)	)	)	O
+O	140	142	in	in	IN	B-PP
+O	143	145	PE	PE	NN	B-NP
+O	146	151	using	use	VBG	B-VP
+O	152	153	a	a	DT	B-NP
+O	154	163	validated	validate	VBN	I-NP
+O	164	177	questionnaire	questionnaire	NN	I-NP
+O	177	178	.	.	.	O
+

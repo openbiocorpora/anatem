@@ -1,0 +1,22 @@
+O	0	7	Collaxa	Collaxa	NNP	B-NP
+O	8	12	BPEL	BPEL	NNP	I-NP
+O	13	19	Server	Server	NNP	I-NP
+O	20	30	Screenshot	Screenshot	NNP	I-NP
+O	31	33	of	of	IN	B-PP
+O	34	41	Collaxa	Collaxa	NNP	B-NP
+O	41	42	'	'	POS	B-NP
+O	42	43	s	s	JJ	I-NP
+O	44	49	bpelz	bpelz	NN	I-NP
+O	50	56	design	design	NN	I-NP
+O	57	61	tool	tool	NN	I-NP
+O	61	62	,	,	,	O
+O	63	71	building	build	VBG	B-VP
+O	72	73	a	a	DT	B-NP
+O	74	86	choreography	choreography	NN	I-NP
+O	87	89	of	of	IN	B-PP
+O	90	97	GetHAPI	GetHAPI	NN	B-NP
+O	98	101	and	and	CC	I-NP
+O	102	109	GetUMLS	GetUMLS	NN	I-NP
+O	110	113	web	web	NN	I-NP
+O	114	122	services	service	NNS	I-NP
+

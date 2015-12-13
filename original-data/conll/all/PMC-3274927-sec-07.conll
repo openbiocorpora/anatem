@@ -1,0 +1,64 @@
+Supplementary	O
+Material	O
+
+Crystal	O
+structure	O
+:	O
+contains	O
+datablock	O
+(	O
+s	O
+)	O
+global	O
+,	O
+I	O
+.	O
+
+DOI	O
+:	O
+10	O
+.	O
+1107	O
+/	O
+S1600536812002796	O
+/	O
+hg5166sup1	O
+.	O
+cif	O
+
+Structure	O
+factors	O
+:	O
+contains	O
+datablock	O
+(	O
+s	O
+)	O
+I	O
+.	O
+
+DOI	O
+:	O
+10	O
+.	O
+1107	O
+/	O
+S1600536812002796	O
+/	O
+hg5166Isup2	O
+.	O
+hkl	O
+
+Additional	O
+supplementary	O
+materials	O
+:	O
+crystallographic	O
+information	O
+;	O
+3D	O
+view	O
+;	O
+checkCIF	O
+report	O
+

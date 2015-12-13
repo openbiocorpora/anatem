@@ -1,0 +1,31 @@
+O	0	10	Additional	Additional	JJ	B-NP
+O	11	15	file	file	NN	I-NP
+O	16	17	2	2	CD	I-NP
+
+O	18	23	Video	Video	NN	B-NP
+O	24	26	S2	S2	NN	I-NP
+O	27	30	TTE	TTE	NN	I-NP
+O	31	37	apical	apical	JJ	I-NP
+O	38	39	4	4	CD	I-NP
+O	39	40	-	-	HYPH	I-NP
+O	40	47	chamber	chamber	NN	I-NP
+O	48	52	view	view	NN	I-NP
+O	52	53	.	.	.	O
+
+O	54	57	The	The	DT	B-NP
+O	58	68	vegetation	vegetation	NN	I-NP
+O	69	74	seems	seem	VBZ	B-VP
+O	75	82	located	located	JJ	B-ADJP
+O	83	87	just	just	RB	B-PP
+O	88	93	above	above	IN	I-PP
+O	94	97	the	the	DT	B-NP
+B-Multi-tissue_structure	98	107	tricuspid	tricuspid	JJ	I-NP
+I-Multi-tissue_structure	108	114	septal	septal	JJ	I-NP
+I-Multi-tissue_structure	115	120	valve	valve	NN	I-NP
+O	121	128	without	without	IN	B-PP
+O	129	136	causing	cause	VBG	B-VP
+O	137	148	obstruction	obstruction	NN	B-NP
+O	149	151	on	on	IN	B-PP
+O	152	154	it	it	PRP	B-NP
+O	154	155	.	.	.	O
+

@@ -1,0 +1,12 @@
+O	0	5	Water	Water	RBR	B-ADVP
+O	6	14	emerging	emerge	VBG	B-VP
+O	15	19	from	from	IN	B-PP
+O	20	23	the	the	DT	B-NP
+O	24	28	yoke	yoke	NN	I-NP
+O	29	36	adapter	adapter	NN	I-NP
+O	37	39	of	of	IN	B-PP
+O	40	43	the	the	DT	B-NP
+O	44	51	nitrous	nitrous	JJ	I-NP
+O	52	57	oxide	oxide	NN	I-NP
+O	58	62	hose	hose	NN	I-NP
+

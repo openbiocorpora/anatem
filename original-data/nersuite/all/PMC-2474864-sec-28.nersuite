@@ -1,0 +1,47 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	25	MP	MP	NN	B-NP
+O	26	34	prepared	prepare	VBD	B-VP
+O	35	38	the	the	DT	B-NP
+O	39	44	first	first	JJ	I-NP
+O	45	50	draft	draft	NN	I-NP
+O	51	55	with	with	IN	B-PP
+O	56	59	the	the	DT	B-NP
+O	60	70	assistance	assistance	NN	I-NP
+O	71	73	of	of	IN	B-PP
+O	74	78	JLdR	JLdR	NN	B-NP
+O	78	79	.	.	.	O
+
+O	80	85	Other	Other	JJ	B-NP
+O	86	93	authors	author	NNS	I-NP
+O	94	102	reviewed	review	VBD	B-VP
+O	103	106	the	the	DT	B-NP
+O	107	117	manuscript	manuscript	NN	I-NP
+O	117	118	,	,	,	O
+O	119	127	provided	provide	VBN	B-PP
+O	128	135	further	further	JJ	B-NP
+O	136	149	contributions	contribution	NNS	I-NP
+O	150	153	and	and	CC	I-NP
+O	154	165	suggestions	suggestion	NNS	I-NP
+O	165	166	.	.	.	O
+
+O	167	170	All	All	DT	B-NP
+O	171	173	of	of	IN	B-PP
+O	174	177	the	the	DT	B-NP
+O	178	185	authors	author	NNS	I-NP
+O	186	192	worked	work	VBD	B-VP
+O	193	205	collectively	collectively	RB	B-ADVP
+O	206	208	to	to	TO	B-VP
+O	209	216	develop	develop	VB	I-VP
+O	217	220	the	the	DT	B-NP
+O	221	231	algorithms	algorithm	NNS	I-NP
+O	232	235	and	and	CC	I-NP
+O	236	243	methods	method	NNS	I-NP
+O	244	253	described	describe	VBN	B-VP
+O	254	256	in	in	IN	B-PP
+O	257	261	this	this	DT	B-NP
+O	262	267	paper	paper	NN	I-NP
+O	267	268	.	.	.	O
+

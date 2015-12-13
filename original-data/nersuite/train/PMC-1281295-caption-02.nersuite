@@ -1,0 +1,10 @@
+O	0	8	Measured	Measured	JJ	B-NP
+O	9	17	analytes	analyte	NNS	I-NP
+O	18	20	in	in	IN	B-PP
+O	21	25	five	five	CD	B-NP
+O	26	34	biologic	biologic	JJ	I-NP
+O	35	41	sample	sample	NN	I-NP
+O	42	50	matrices	matrix	NNS	I-NP
+O	50	51	.	.	.	O
+O	51	52	a	a	DT	O
+

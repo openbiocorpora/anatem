@@ -1,0 +1,24 @@
+O	0	3	The	The	DT	B-NP
+O	4	13	molecular	molecular	JJ	I-NP
+O	14	23	structure	structure	NN	I-NP
+O	24	26	of	of	IN	B-PP
+O	27	28	(	(	(	O
+O	28	29	I	I	NN	B-NP
+O	29	30	)	)	)	O
+O	30	31	,	,	,	O
+O	32	39	showing	show	VBG	B-VP
+O	40	52	displacement	displacement	NN	B-NP
+O	53	63	ellipsoids	ellipsoid	NNS	I-NP
+O	64	66	at	at	IN	B-PP
+O	67	70	the	the	DT	B-NP
+O	71	73	30	30	CD	I-NP
+O	73	74	%	%	NN	I-NP
+O	75	86	probability	probability	NN	I-NP
+O	87	92	level	level	NN	I-NP
+O	93	96	for	for	IN	B-PP
+O	97	100	non	non	AFX	B-NP
+O	100	101	-	-	HYPH	I-NP
+O	101	102	H	H	NN	I-NP
+O	103	108	atoms	atom	NNS	I-NP
+O	108	109	.	.	.	O
+

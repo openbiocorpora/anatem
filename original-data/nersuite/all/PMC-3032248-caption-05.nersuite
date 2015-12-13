@@ -1,0 +1,5 @@
+B-Multi-tissue_structure	0	17	Tarsoconjunctival	Tarsoconjunctival	JJ	B-NP
+I-Multi-tissue_structure	18	22	flap	flap	NN	I-NP
+O	23	28	after	after	IN	B-PP
+O	29	37	division	division	NN	B-NP
+

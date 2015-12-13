@@ -1,0 +1,32 @@
+O	0	10	Conclusion	Conclusion	NN	B-NP
+
+O	11	21	Artificial	Artificial	JJ	B-NP
+O	22	30	addition	addition	NN	I-NP
+O	31	33	of	of	IN	B-PP
+O	34	46	siderophores	siderophore	NNS	B-NP
+O	47	50	and	and	CC	I-NP
+O	51	55	HSLs	HSL	NNS	I-NP
+O	56	59	may	may	MD	B-VP
+O	60	62	be	be	VB	I-VP
+O	63	64	a	a	DT	B-NP
+O	65	73	possible	possible	JJ	I-NP
+O	74	80	method	method	NN	I-NP
+O	81	83	to	to	TO	B-VP
+O	84	87	aid	aid	VB	I-VP
+O	88	90	in	in	IN	B-PP
+O	91	94	the	the	DT	B-NP
+O	95	109	identification	identification	NN	I-NP
+O	110	113	and	and	CC	I-NP
+O	114	123	isolation	isolation	NN	I-NP
+O	124	126	of	of	IN	B-PP
+O	127	133	marine	marine	JJ	B-NP
+O	134	143	bacterial	bacterial	JJ	I-NP
+O	144	151	species	specie	NNS	I-NP
+O	152	157	which	which	WDT	B-NP
+O	158	161	are	be	VBP	B-VP
+O	162	169	thought	think	VBN	I-VP
+O	170	172	to	to	TO	I-VP
+O	173	175	be	be	VB	I-VP
+O	176	183	unknown	unknown	JJ	B-ADJP
+O	183	184	.	.	.	O
+

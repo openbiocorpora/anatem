@@ -1,0 +1,23 @@
+O	0	8	Magnetic	Magnetic	JJ	B-NP
+O	9	18	resonance	resonance	NN	I-NP
+O	19	26	imaging	imaging	NN	I-NP
+O	27	29	of	of	IN	B-PP
+O	30	35	axial	axial	JJ	B-NP
+O	36	40	plan	plan	NN	I-NP
+O	41	45	with	with	IN	B-PP
+B-Immaterial_anatomical_entity	46	57	intravenous	intravenous	JJ	B-NP
+O	58	66	contrast	contrast	NN	I-NP
+O	67	77	gadolinium	gadolinium	NN	I-NP
+O	77	78	-	-	HYPH	B-NP
+O	78	83	BOPTA	BOPTA	NN	I-NP
+O	84	97	demonstrating	demonstrate	VBG	B-VP
+O	98	99	a	a	DT	B-NP
+B-Pathological_formation	100	104	mass	mass	NN	I-NP
+O	105	113	adherent	adherent	JJ	B-ADJP
+O	114	116	to	to	TO	B-PP
+O	117	120	the	the	DT	B-NP
+B-Multi-tissue_structure	121	126	right	right	JJ	I-NP
+I-Multi-tissue_structure	127	138	ventricular	ventricular	JJ	I-NP
+I-Multi-tissue_structure	139	143	wall	wall	NN	I-NP
+O	143	144	.	.	.	O
+

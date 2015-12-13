@@ -1,0 +1,7 @@
+O	0	7	Sealant	Sealant	JJ	B-NP
+O	8	19	application	application	NN	I-NP
+O	20	28	criteria	criterion	NNS	I-NP
+O	29	32	for	for	IN	B-PP
+B-Organ	33	38	molar	molar	JJ	B-NP
+O	39	47	fissures	fissure	NNS	I-NP
+

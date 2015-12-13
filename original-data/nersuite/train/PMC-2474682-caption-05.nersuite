@@ -1,0 +1,9 @@
+O	0	7	Summary	Summary	NN	B-NP
+O	8	10	of	of	IN	B-PP
+O	11	18	studies	study	NNS	B-NP
+O	19	28	reporting	report	VBG	B-VP
+O	29	42	comorbidities	comorbidity	NNS	B-NP
+O	43	47	with	with	IN	B-PP
+O	48	56	diabetes	diabetes	NN	B-NP
+O	56	57	.	.	.	O
+

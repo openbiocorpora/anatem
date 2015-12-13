@@ -1,0 +1,37 @@
+O	0	8	Reagents	Reagent	NNS	B-NP
+
+O	9	13	CNQX	CNQX	NN	B-NP
+O	13	14	,	,	,	O
+O	15	25	colchicine	colchicine	NN	B-NP
+O	25	26	,	,	,	O
+O	27	36	forskolin	forskolin	NN	B-NP
+O	36	37	,	,	,	O
+O	38	41	and	and	CC	O
+O	42	55	carbenoxolone	carbenoxolone	NN	B-NP
+O	56	60	were	be	VBD	B-VP
+O	61	70	purchased	purchase	VBN	I-VP
+O	71	75	from	from	IN	B-PP
+O	76	81	Sigma	Sigma	NNP	B-NP
+O	81	82	.	.	.	O
+
+O	83	86	DCG	DCG	NN	B-NP
+O	86	87	-	-	HYPH	I-NP
+O	87	89	IV	IV	CD	I-NP
+O	89	90	,	,	,	I-NP
+O	91	97	ZD7288	ZD7288	NN	I-NP
+O	97	98	,	,	,	I-NP
+O	99	107	CGP55845	CGP55845	NN	I-NP
+O	108	111	and	and	CC	I-NP
+O	112	117	DPCPX	DPCPX	NN	I-NP
+O	118	122	were	be	VBD	B-VP
+O	123	131	obtained	obtain	VBN	I-VP
+O	132	136	from	from	IN	B-PP
+O	137	143	Tocris	Tocris	NNP	B-NP
+O	144	151	Cookson	Cookson	NNP	I-NP
+O	152	153	(	(	(	O
+O	153	163	Ellisville	Ellisville	NNP	B-NP
+O	163	164	,	,	,	I-NP
+O	165	167	MO	MO	NN	I-NP
+O	167	168	)	)	)	O
+O	168	169	.	.	.	O
+

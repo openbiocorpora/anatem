@@ -1,0 +1,47 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	25	OK	OK	NN	B-NP
+O	26	29	and	and	CC	I-NP
+O	30	32	MG	MG	NN	I-NP
+O	33	41	analyzed	analyze	VBN	B-VP
+O	42	45	and	and	CC	O
+O	46	57	interpreted	interpret	VBD	B-VP
+O	58	61	the	the	DT	B-NP
+O	62	69	patient	patient	NN	I-NP
+O	70	74	data	datum	NNS	I-NP
+O	75	84	regarding	regard	VBG	B-VP
+O	85	88	his	his	PRP$	B-NP
+O	89	104	hospitalization	hospitalization	NN	I-NP
+O	104	105	.	.	.	O
+
+O	106	108	SP	SP	NN	B-NP
+O	109	112	and	and	CC	I-NP
+O	113	115	PK	PK	NN	I-NP
+O	116	125	performed	perform	VBD	B-VP
+O	126	129	the	the	DT	B-NP
+B-Multi-tissue_structure	130	138	coronary	coronary	JJ	I-NP
+O	139	150	angiography	angiography	NN	I-NP
+O	150	151	,	,	,	O
+O	152	155	and	and	CC	O
+O	156	160	were	be	VBD	B-VP
+O	161	164	the	the	DT	B-NP
+O	165	170	major	major	JJ	I-NP
+O	171	183	contributors	contributor	NNS	I-NP
+O	184	186	in	in	IN	B-PP
+O	187	194	writing	write	VBG	B-VP
+O	195	198	the	the	DT	B-NP
+O	199	209	manuscript	manuscript	NN	I-NP
+O	209	210	.	.	.	O
+
+O	211	214	All	All	DT	B-NP
+O	215	222	authors	author	NNS	I-NP
+O	223	227	read	read	VBD	B-VP
+O	228	231	and	and	CC	I-VP
+O	232	240	approved	approve	VBD	I-VP
+O	241	244	the	the	DT	B-NP
+O	245	250	final	final	JJ	I-NP
+O	251	261	manuscript	manuscript	NN	I-NP
+O	261	262	.	.	.	O
+

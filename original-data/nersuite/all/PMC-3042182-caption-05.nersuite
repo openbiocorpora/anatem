@@ -1,0 +1,12 @@
+O	0	8	Observed	Observe	VBN	B-NP
+O	9	13	type	type	NN	I-NP
+O	14	15	I	I	CD	I-NP
+O	16	21	error	error	NN	I-NP
+O	22	25	for	for	IN	B-PP
+O	26	34	datasets	dataset	NNS	B-NP
+O	35	44	simulated	simulate	VBN	B-VP
+O	45	50	under	under	IN	B-PP
+O	51	54	the	the	DT	B-NP
+O	55	59	null	null	NN	I-NP
+O	60	70	hypothesis	hypothesis	NN	I-NP
+

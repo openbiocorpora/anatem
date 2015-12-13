@@ -1,0 +1,25 @@
+O	0	14	Representative	Representative	JJ	B-NP
+O	15	19	time	time	NN	I-NP
+O	20	29	histories	history	NNS	I-NP
+O	30	32	of	of	IN	B-PP
+O	33	36	the	the	DT	B-NP
+O	37	46	estimated	estimate	VBN	I-NP
+O	47	52	SatO2	SatO2	NN	I-NP
+O	53	59	levels	level	NNS	I-NP
+O	60	62	of	of	IN	B-PP
+O	63	69	normal	normal	JJ	B-NP
+B-Multi-tissue_structure	70	76	cortex	cortex	NN	I-NP
+O	77	78	(	(	(	O
+O	78	83	black	black	JJ	B-ADJP
+O	83	84	)	)	)	O
+O	85	88	and	and	CC	O
+B-Cancer	89	94	tumor	tumor	NN	B-NP
+O	95	96	(	(	(	O
+O	96	100	grey	grey	NN	B-NP
+O	100	101	)	)	)	O
+O	102	106	from	from	IN	B-PP
+O	107	110	all	all	DT	B-NP
+O	111	114	six	six	CD	I-NP
+O	115	123	patients	patient	NNS	I-NP
+O	123	124	.	.	.	O
+

@@ -1,0 +1,178 @@
+O	0	10	Supporting	Support	VBG	B-VP
+O	11	22	Information	Information	NN	B-NP
+
+O	23	28	Table	Table	JJ	B-NP
+O	29	31	S1	S1	NN	I-NP
+
+O	32	45	Supplementary	Supplementary	JJ	B-NP
+O	46	57	Information	Information	NN	I-NP
+O	58	60	on	on	IN	B-PP
+O	61	66	Genes	Gene	NNS	B-NP
+O	67	69	in	in	IN	B-PP
+O	70	73	the	the	DT	B-NP
+O	74	79	Three	Three	CD	I-NP
+O	80	84	Gene	Gene	NN	I-NP
+O	85	89	Sets	Set	NNS	I-NP
+
+O	90	91	(	(	(	O
+O	91	94	219	219	CD	B-NP
+O	95	97	KB	KB	NN	I-NP
+O	98	101	PDF	PDF	NN	I-NP
+O	101	102	)	)	)	O
+
+O	103	108	Click	Click	NN	B-NP
+O	109	113	here	here	RB	B-ADVP
+O	114	117	for	for	IN	B-PP
+O	118	128	additional	additional	JJ	B-NP
+O	129	133	data	datum	NNS	I-NP
+O	134	138	file	file	NN	I-NP
+O	138	139	.	.	.	O
+
+O	140	145	Table	Table	JJ	B-NP
+O	146	148	S2	S2	NN	I-NP
+
+O	149	152	UFW	UFW	NNP	B-NP
+O	153	160	Primers	Primer	NNPS	I-NP
+O	161	164	for	for	IN	B-PP
+O	165	169	Gene	Gene	NNP	B-NP
+O	170	173	Set	Set	NNP	I-NP
+O	174	175	I	I	NNP	I-NP
+
+O	176	177	(	(	(	O
+O	177	179	36	36	CD	B-NP
+O	180	182	KB	KB	NN	I-NP
+O	183	186	PDF	PDF	NN	I-NP
+O	186	187	)	)	)	O
+
+O	188	193	Click	Click	NN	B-NP
+O	194	198	here	here	RB	B-ADVP
+O	199	202	for	for	IN	B-PP
+O	203	213	additional	additional	JJ	B-NP
+O	214	218	data	datum	NNS	I-NP
+O	219	223	file	file	NN	I-NP
+O	223	224	.	.	.	O
+
+O	225	230	Table	Table	JJ	B-NP
+O	231	233	S3	S3	NN	I-NP
+
+O	234	237	UFW	UFW	NN	B-NP
+O	238	245	Primers	Primer	NNS	I-NP
+O	246	249	for	for	IN	B-PP
+O	250	254	Gene	Gene	NN	B-NP
+O	255	258	Set	Set	NN	I-NP
+O	259	261	II	II	CD	I-NP
+
+O	262	263	(	(	(	O
+O	263	265	44	44	CD	B-NP
+O	266	268	KB	KB	NN	I-NP
+O	269	272	PDF	PDF	NN	I-NP
+O	272	273	)	)	)	O
+
+O	274	279	Click	Click	NN	B-NP
+O	280	284	here	here	RB	B-ADVP
+O	285	288	for	for	IN	B-PP
+O	289	299	additional	additional	JJ	B-NP
+O	300	304	data	datum	NNS	I-NP
+O	305	309	file	file	NN	I-NP
+O	309	310	.	.	.	O
+
+O	311	316	Table	Table	JJ	B-NP
+O	317	319	S4	S4	NN	I-NP
+
+O	320	323	UFW	UFW	NN	B-NP
+O	324	331	Primers	Primer	NNS	I-NP
+O	332	335	for	for	IN	B-PP
+O	336	340	Gene	Gene	NN	B-NP
+O	341	344	Set	Set	NN	I-NP
+O	345	348	III	III	CD	I-NP
+
+O	349	350	(	(	(	O
+O	350	352	31	31	CD	B-NP
+O	353	355	KB	KB	NN	I-NP
+O	356	359	PDF	PDF	NN	I-NP
+O	359	360	)	)	)	O
+
+O	361	366	Click	Click	NN	B-NP
+O	367	371	here	here	RB	B-ADVP
+O	372	375	for	for	IN	B-PP
+O	376	386	additional	additional	JJ	B-NP
+O	387	391	data	datum	NNS	I-NP
+O	392	396	file	file	NN	I-NP
+O	396	397	.	.	.	O
+
+O	398	403	Table	Table	JJ	B-NP
+O	404	406	S5	S5	NN	I-NP
+
+O	407	419	Transposable	Transposable	JJ	B-NP
+O	420	427	Element	Element	NN	I-NP
+O	427	428	-	-	HYPH	B-NP
+O	428	436	Specific	Specific	JJ	I-NP
+O	437	444	Primers	Primer	NNS	I-NP
+O	445	448	for	for	IN	B-PP
+O	449	459	Additional	Additional	JJ	B-NP
+O	460	467	Screens	Screen	NNS	I-NP
+
+O	468	469	(	(	(	O
+O	469	471	80	80	CD	B-NP
+O	472	474	KB	KB	NN	I-NP
+O	475	478	PDF	PDF	NN	I-NP
+O	478	479	)	)	)	O
+
+O	480	485	Click	Click	NN	B-NP
+O	486	490	here	here	RB	B-ADVP
+O	491	494	for	for	IN	B-PP
+O	495	505	additional	additional	JJ	B-NP
+O	506	510	data	datum	NNS	I-NP
+O	511	515	file	file	NN	I-NP
+O	515	516	.	.	.	O
+
+O	517	522	Table	Table	JJ	B-NP
+O	523	525	S6	S6	NN	I-NP
+
+O	526	533	Primers	Primer	NNS	B-NP
+O	534	537	for	for	IN	B-PP
+O	538	548	Intergenic	Intergenic	JJ	B-NP
+O	549	556	Regions	Region	NNS	I-NP
+
+O	557	558	(	(	(	O
+O	558	560	58	58	CD	B-NP
+O	561	563	KB	KB	NN	I-NP
+O	564	567	PDF	PDF	NN	I-NP
+O	567	568	)	)	)	O
+
+O	569	574	Click	Click	NN	B-NP
+O	575	579	here	here	RB	B-ADVP
+O	580	583	for	for	IN	B-PP
+O	584	594	additional	additional	JJ	B-NP
+O	595	599	data	datum	NNS	I-NP
+O	600	604	file	file	NN	I-NP
+O	604	605	.	.	.	O
+
+O	606	611	Table	Table	JJ	B-NP
+O	612	614	S7	S7	NN	I-NP
+
+O	615	616	P	P	NN	B-NP
+O	617	624	Element	Element	NN	I-NP
+O	624	625	-	-	HYPH	B-NP
+O	625	633	Specific	Specific	JJ	I-NP
+O	634	641	Primers	Primer	NNS	I-NP
+O	642	645	for	for	IN	B-PP
+O	646	657	Orientation	Orientation	NNP	B-NP
+O	658	661	and	and	CC	I-NP
+O	662	668	Length	Length	NNP	I-NP
+O	669	682	Determination	Determination	NNP	I-NP
+
+O	683	684	(	(	(	O
+O	684	687	299	299	CD	B-NP
+O	688	690	KB	KB	NN	I-NP
+O	691	694	PDF	PDF	NN	I-NP
+O	694	695	)	)	)	O
+
+O	696	701	Click	Click	NN	B-NP
+O	702	706	here	here	RB	B-ADVP
+O	707	710	for	for	IN	B-PP
+O	711	721	additional	additional	JJ	B-NP
+O	722	726	data	datum	NNS	I-NP
+O	727	731	file	file	NN	I-NP
+O	731	732	.	.	.	O
+

@@ -1,0 +1,20 @@
+O	0	11	Conclusions	Conclusion	NNS	B-NP
+
+B-Multi-tissue_structure	12	22	Myocardial	Myocardial	JJ	B-NP
+O	23	32	ischaemia	ischaemia	NN	I-NP
+O	33	39	during	during	IN	B-PP
+O	40	44	DCMR	DCMR	NN	B-NP
+O	45	47	is	be	VBZ	B-VP
+O	48	61	independently	independently	RB	B-ADJP
+O	62	72	predictive	predictive	JJ	I-ADJP
+O	73	75	of	of	IN	B-PP
+B-Organ	76	83	cardiac	cardiac	JJ	B-NP
+O	84	90	events	event	NNS	I-NP
+O	91	96	among	among	IN	B-PP
+O	97	105	patients	patient	NNS	B-NP
+O	106	110	with	with	IN	B-PP
+O	111	119	previous	previous	JJ	B-NP
+B-Multi-tissue_structure	120	130	myocardial	myocardial	JJ	I-NP
+O	131	148	revascularisation	revascularisation	NN	I-NP
+O	148	149	.	.	.	O
+

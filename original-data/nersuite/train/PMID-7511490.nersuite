@@ -1,0 +1,47 @@
+O	0	10	Additional	Additional	JJ	B-NP
+O	11	16	tests	test	NNS	I-NP
+O	17	19	of	of	IN	B-PP
+O	20	28	interest	interest	NN	B-NP
+O	29	31	to	to	TO	B-PP
+O	32	35	the	the	DT	B-NP
+O	36	49	dermatologist	dermatologist	NN	I-NP
+O	49	50	.	.	.	O
+
+O	51	54	The	The	DT	B-NP
+O	55	64	carcinoid	carcinoid	JJ	I-NP
+O	65	73	syndrome	syndrome	NN	I-NP
+O	74	77	and	and	CC	O
+O	78	81	its	its	PRP$	B-NP
+O	82	90	clinical	clinical	JJ	I-NP
+O	91	105	manifestations	manifestation	NNS	I-NP
+O	106	110	have	have	VBP	B-VP
+O	111	115	been	be	VBN	I-VP
+O	116	125	discussed	discuss	VBN	I-VP
+O	125	126	.	.	.	O
+
+O	127	130	The	The	DT	B-NP
+O	131	139	standard	standard	JJ	I-NP
+O	140	150	laboratory	laboratory	NN	I-NP
+O	151	155	test	test	NN	I-NP
+O	156	159	for	for	IN	B-PP
+O	160	166	making	make	VBG	B-VP
+O	167	171	that	that	DT	B-NP
+O	172	181	diagnosis	diagnosis	NN	I-NP
+O	182	184	is	be	VBZ	B-VP
+B-Organism_substance	185	192	urinary	urinary	JJ	B-NP
+O	193	194	5	5	CD	I-NP
+O	194	195	-	-	HYPH	I-NP
+O	195	199	HIAA	HIAA	NN	I-NP
+O	200	206	levels	level	NNS	I-NP
+O	207	210	but	but	CC	O
+O	211	216	newer	new	JJR	B-NP
+O	216	217	,	,	,	I-NP
+O	218	222	more	more	RBR	I-NP
+O	223	232	sensitive	sensitive	JJ	I-NP
+O	233	238	tests	test	NNS	I-NP
+O	239	242	may	may	MD	B-VP
+O	243	247	also	also	RB	I-VP
+O	248	250	be	be	VB	I-VP
+O	251	260	available	available	JJ	B-ADJP
+O	260	261	.	.	.	O
+

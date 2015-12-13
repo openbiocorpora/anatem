@@ -1,0 +1,24 @@
+O	0	10	Additional	Additional	JJ	B-NP
+O	11	15	File	File	NN	I-NP
+O	16	17	2	2	CD	I-NP
+
+O	18	22	Full	Full	NNP	B-NP
+O	23	28	Model	Model	NNP	I-NP
+O	29	33	Code	Code	NNP	I-NP
+O	33	34	.	.	.	O
+
+O	35	39	Full	Full	JJ	B-NP
+O	40	45	model	model	NN	I-NP
+O	46	50	code	code	NN	I-NP
+O	51	55	plus	plus	CC	O
+O	56	68	instructions	instruction	NNS	B-NP
+O	69	72	for	for	IN	B-PP
+O	73	80	running	run	VBG	B-VP
+O	81	83	in	in	IN	B-PP
+O	84	92	Berkeley	Berkeley	NNP	B-NP
+O	93	100	Madonna	Madonna	NNP	I-NP
+O	100	101	(	(	(	O
+O	101	103	TM	TM	NNP	B-NP
+O	103	104	)	)	)	O
+O	104	105	.	.	.	O
+

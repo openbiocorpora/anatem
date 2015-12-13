@@ -1,0 +1,9 @@
+O	0	11	Statistical	Statistical	JJ	B-NP
+O	12	19	results	result	NNS	I-NP
+O	20	27	showing	show	VBG	B-VP
+O	28	39	significant	significant	JJ	B-NP
+O	40	51	differences	difference	NNS	I-NP
+O	52	59	between	between	IN	B-PP
+O	60	68	habitats	habitat	NNS	B-NP
+O	68	69	.	.	.	O
+

@@ -1,0 +1,50 @@
+O	0	5	Model	Model	NN	B-NP
+O	6	8	of	of	IN	B-PP
+O	9	12	how	how	WRB	B-ADVP
+O	13	21	estrogen	estrogen	NN	B-NP
+O	22	29	induces	induce	VBZ	B-VP
+O	30	33	DNA	DNA	NN	B-NP
+O	34	40	damage	damage	NN	I-NP
+O	40	41	.	.	.	O
+
+O	42	50	Estrogen	Estrogen	NN	B-NP
+O	51	57	enters	enter	VBZ	B-VP
+O	58	61	the	the	DT	B-NP
+B-Cell	62	66	cell	cell	NN	I-NP
+O	67	70	and	and	CC	O
+O	71	73	is	be	VBZ	B-VP
+O	74	79	bound	bind	VBN	I-VP
+O	80	82	by	by	IN	B-PP
+O	83	86	the	the	DT	B-NP
+O	87	89	ER	ER	NN	I-NP
+O	89	90	.	.	.	O
+
+O	91	94	The	The	DT	B-NP
+O	95	102	dimeric	dimeric	JJ	I-NP
+O	103	105	ER	ER	NN	I-NP
+O	105	106	-	-	HYPH	B-NP
+O	106	114	estrogen	estrogen	NN	I-NP
+O	115	122	complex	complex	NN	I-NP
+O	123	129	enters	enter	VBZ	B-VP
+O	130	133	the	the	DT	B-NP
+B-Cellular_component	134	141	nucleus	nucleus	NN	I-NP
+O	142	145	and	and	CC	O
+O	146	153	induces	induce	VBZ	B-VP
+O	154	157	AID	AID	NN	B-NP
+O	158	168	expression	expression	NN	I-NP
+O	168	169	.	.	.	O
+
+O	170	174	This	This	DT	B-NP
+O	175	180	leads	lead	VBZ	B-VP
+O	181	183	to	to	TO	B-PP
+O	184	186	an	an	DT	B-NP
+O	187	195	increase	increase	NN	I-NP
+O	196	198	in	in	IN	B-PP
+O	199	208	mutations	mutation	NNS	B-NP
+O	209	212	and	and	CC	I-NP
+O	213	227	translocations	translocation	NNS	I-NP
+O	227	228	,	,	,	O
+O	229	232	and	and	CC	O
+O	233	244	potentially	potentially	RB	B-ADVP
+B-Cancer	245	251	cancer	cancer	NN	B-NP
+

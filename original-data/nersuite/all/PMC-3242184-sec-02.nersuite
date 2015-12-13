@@ -1,0 +1,47 @@
+O	0	7	Methods	Method	NNS	B-NP
+
+O	8	10	We	We	PRP	B-NP
+O	11	18	studied	study	VBD	B-VP
+O	19	20	3	3	CD	B-NP
+O	20	21	,	,	,	O
+O	21	24	574	574	CD	B-NP
+O	25	33	Canadian	Canadian	JJ	I-NP
+O	34	42	children	child	NNS	I-NP
+O	42	43	,	,	,	O
+O	44	48	aged	age	VBN	B-VP
+O	49	50	7	7	CD	B-NP
+O	50	51	-	-	HYPH	I-NP
+O	51	52	8	8	CD	I-NP
+O	53	55	yr	yr	NN	I-NP
+O	55	56	,	,	,	O
+O	57	65	enrolled	enrol	VBN	B-VP
+O	66	68	in	in	IN	B-PP
+O	69	70	a	a	DT	B-NP
+O	71	81	population	population	NN	I-NP
+O	81	82	-	-	HYPH	O
+O	82	87	based	base	VBN	B-NP
+O	88	93	birth	birth	NN	I-NP
+O	94	100	cohort	cohort	NN	I-NP
+O	100	101	.	.	.	O
+
+O	102	114	Standardized	Standardized	JJ	B-NP
+O	115	129	questionnaires	questionnaire	NNS	I-NP
+O	130	134	were	be	VBD	B-VP
+O	135	144	completed	complete	VBN	I-VP
+O	145	147	by	by	IN	B-PP
+O	148	151	the	the	DT	B-NP
+O	152	160	children	child	NNS	I-NP
+O	160	161	'	'	POS	B-NP
+O	161	162	s	s	NNS	I-NP
+O	163	170	parents	parent	NNS	I-NP
+O	170	171	,	,	,	O
+O	172	175	and	and	CC	O
+O	176	180	data	datum	NNS	B-NP
+O	181	185	were	be	VBD	B-VP
+O	186	194	analyzed	analyze	VBN	I-VP
+O	195	197	by	by	IN	B-PP
+O	198	210	multivariate	multivariate	JJ	B-NP
+O	211	219	logistic	logistic	JJ	I-NP
+O	220	230	regression	regression	NN	I-NP
+O	230	231	.	.	.	O
+

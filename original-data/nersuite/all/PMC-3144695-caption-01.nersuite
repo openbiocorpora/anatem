@@ -1,0 +1,7 @@
+O	0	5	Genes	Gene	NNS	B-NP
+O	6	16	associated	associate	VBN	B-VP
+O	17	21	with	with	IN	B-PP
+O	22	34	nonsegmental	nonsegmental	JJ	B-NP
+O	35	43	vitiligo	vitiligo	NN	I-NP
+O	43	44	.	.	.	O
+

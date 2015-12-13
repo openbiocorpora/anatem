@@ -1,0 +1,9 @@
+O	0	14	Extrapyramidal	Extrapyramidal	JJ	B-NP
+O	15	23	symptoms	symptom	NNS	I-NP
+O	24	29	based	base	VBN	B-VP
+O	30	32	on	on	IN	B-PP
+O	33	47	Extrapyramidal	Extrapyramidal	NNP	B-NP
+O	48	56	Symptoms	Symptoms	NNP	I-NP
+O	57	63	Rating	Rating	NNP	I-NP
+O	64	69	Scale	Scale	NNP	I-NP
+

@@ -1,0 +1,20 @@
+O	0	7	Details	Detail	NNS	B-NP
+O	8	10	of	of	IN	B-PP
+O	11	20	treatment	treatment	NN	B-NP
+O	21	29	programs	program	NNS	I-NP
+O	30	31	A	A	NN	I-NP
+O	32	35	and	and	CC	I-NP
+O	36	37	B	B	NN	I-NP
+O	38	40	in	in	IN	B-PP
+O	41	48	respect	respect	NN	B-NP
+O	49	51	to	to	TO	B-PP
+O	52	58	visits	visit	NNS	B-NP
+O	59	61	to	to	TO	B-PP
+O	62	71	different	different	JJ	B-NP
+O	72	78	health	health	NN	I-NP
+O	79	83	care	care	NN	I-NP
+O	84	97	professionals	professional	NNS	I-NP
+O	98	101	and	and	CC	O
+O	102	111	treatment	treatment	NN	B-NP
+O	112	122	activities	activity	NNS	I-NP
+

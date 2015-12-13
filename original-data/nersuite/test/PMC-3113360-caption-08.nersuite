@@ -1,0 +1,9 @@
+O	0	9	Importing	Import	VBG	B-VP
+O	10	19	citations	citation	NNS	B-NP
+O	20	22	in	in	IN	B-PP
+O	23	32	different	different	JJ	B-NP
+O	33	40	formats	format	NNS	I-NP
+O	41	46	using	use	VBG	B-VP
+O	47	53	Google	Google	NNP	B-NP
+O	54	61	Scholar	Scholar	NNP	I-NP
+

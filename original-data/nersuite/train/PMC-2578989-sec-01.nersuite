@@ -1,0 +1,11 @@
+O	0	6	Images	Image	NNS	B-NP
+
+O	7	13	Figure	Figure	NN	B-NP
+O	14	15	1	1	CD	I-NP
+
+O	16	22	Figure	Figure	NN	B-NP
+O	23	24	5	5	CD	I-NP
+
+O	25	31	Figure	Figure	NN	B-NP
+O	32	33	6	6	CD	I-NP
+

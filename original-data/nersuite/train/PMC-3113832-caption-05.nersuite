@@ -1,0 +1,9 @@
+O	0	10	Concurrent	Concurrent	JJ	B-NP
+O	11	18	disease	disease	NN	I-NP
+O	19	21	in	in	IN	B-PP
+O	22	24	33	33	CD	B-NP
+O	25	29	cows	cow	NNS	I-NP
+O	30	34	with	with	IN	B-PP
+O	35	38	LDA	LDA	NN	B-NP
+O	38	39	.	.	.	O
+

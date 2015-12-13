@@ -1,0 +1,5 @@
+O	0	15	Characteristics	Characteristic	NNS	B-NP
+O	16	18	of	of	IN	B-PP
+B-Pathological_formation	19	26	fistula	fistula	NN	B-NP
+I-Pathological_formation	27	34	lesions	lesion	NNS	I-NP
+

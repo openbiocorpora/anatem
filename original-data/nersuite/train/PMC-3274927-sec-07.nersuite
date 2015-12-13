@@ -1,0 +1,64 @@
+O	0	13	Supplementary	Supplementary	NNP	B-NP
+O	14	22	Material	Material	NNP	I-NP
+
+O	23	30	Crystal	Crystal	JJ	B-NP
+O	31	40	structure	structure	NN	I-NP
+O	40	41	:	:	:	O
+O	42	50	contains	contain	VBZ	B-VP
+O	51	60	datablock	datablock	NN	B-NP
+O	60	61	(	(	(	O
+O	61	62	s	s	NNS	B-NP
+O	62	63	)	)	)	O
+O	64	70	global	global	JJ	B-ADJP
+O	70	71	,	,	,	O
+O	72	73	I	I	PRP	B-NP
+O	73	74	.	.	.	O
+
+O	75	78	DOI	DOI	LS	B-LST
+O	78	79	:	:	:	O
+O	80	82	10	10	CD	B-NP
+O	82	83	.	.	.	O
+O	83	87	1107	1107	CD	B-NP
+O	87	88	/	/	SYM	I-NP
+O	88	105	S1600536812002796	S1600536812002796	NN	I-NP
+O	105	106	/	/	SYM	B-NP
+O	106	116	hg5166sup1	hg5166sup1	NN	I-NP
+O	116	117	.	.	.	I-NP
+O	117	120	cif	cif	NN	I-NP
+
+O	121	130	Structure	Structure	NN	B-NP
+O	131	138	factors	factor	NNS	I-NP
+O	138	139	:	:	:	O
+O	140	148	contains	contain	VBZ	B-VP
+O	149	158	datablock	datablock	NN	B-NP
+O	158	159	(	(	(	O
+O	159	160	s	s	NNS	B-NP
+O	160	161	)	)	)	O
+O	162	163	I	I	PRP	B-NP
+O	163	164	.	.	.	O
+
+O	165	168	DOI	DOI	LS	B-LST
+O	168	169	:	:	:	O
+O	170	172	10	10	CD	B-NP
+O	172	173	.	.	.	O
+O	173	177	1107	1107	CD	B-NP
+O	177	178	/	/	SYM	I-NP
+O	178	195	S1600536812002796	S1600536812002796	NN	I-NP
+O	195	196	/	/	SYM	B-NP
+O	196	207	hg5166Isup2	hg5166Isup2	NN	I-NP
+O	207	208	.	.	SYM	I-NP
+O	208	211	hkl	hkl	NN	I-NP
+
+O	212	222	Additional	Additional	JJ	B-NP
+O	223	236	supplementary	supplementary	JJ	I-NP
+O	237	246	materials	material	NNS	I-NP
+O	246	247	:	:	:	O
+O	248	264	crystallographic	crystallographic	JJ	B-NP
+O	265	276	information	information	NN	I-NP
+O	276	277	;	;	:	O
+O	278	280	3D	3D	NN	B-NP
+O	281	285	view	view	NN	I-NP
+O	285	286	;	;	:	O
+O	287	295	checkCIF	checkCIF	NN	B-NP
+O	296	302	report	report	NN	I-NP
+

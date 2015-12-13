@@ -1,0 +1,39 @@
+O	0	3	Pre	Pre	AFX	B-NP
+O	3	4	-	-	HYPH	I-NP
+O	4	15	publication	publication	NN	B-NP
+O	16	23	history	history	NN	I-NP
+
+O	24	27	The	The	DT	B-NP
+O	28	31	pre	pre	AFX	I-NP
+O	31	32	-	-	HYPH	I-NP
+O	32	43	publication	publication	NN	I-NP
+O	44	51	history	history	NN	I-NP
+O	52	55	for	for	IN	B-PP
+O	56	60	this	this	DT	B-NP
+O	61	66	paper	paper	NN	I-NP
+O	67	70	can	can	MD	B-VP
+O	71	73	be	be	VB	I-VP
+O	74	82	accessed	access	VBN	I-VP
+O	83	87	here	here	RB	B-ADVP
+O	87	88	:	:	:	O
+
+O	89	93	http	http	NN	B-NP
+O	93	94	:	:	:	O
+O	94	95	/	/	SYM	B-NP
+O	95	96	/	/	SYM	B-NP
+O	96	99	www	www	NN	I-NP
+O	99	100	.	.	.	O
+O	100	113	biomedcentral	biomedcentral	JJ	B-ADJP
+O	113	114	.	.	.	O
+O	114	117	com	com	''	O
+O	117	118	/	/	SYM	B-NP
+O	118	122	1471	1471	CD	I-NP
+O	122	123	-	-	HYPH	I-NP
+O	123	127	2377	2377	CD	I-NP
+O	127	128	/	/	SYM	I-NP
+O	128	129	9	9	CD	I-NP
+O	129	130	/	/	SYM	I-NP
+O	130	132	57	57	CD	I-NP
+O	132	133	/	/	SYM	I-NP
+O	133	139	prepub	prepub	NN	I-NP
+

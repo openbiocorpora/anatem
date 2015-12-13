@@ -1,0 +1,24 @@
+O	0	7	Methods	Method	NNS	B-NP
+
+O	8	16	Thirteen	Thirteen	CD	B-NP
+O	17	22	focus	focus	NN	I-NP
+O	23	28	group	group	NN	I-NP
+O	29	40	discussions	discussion	NNS	I-NP
+O	41	45	with	with	IN	B-PP
+O	46	51	first	first	JJ	B-NP
+O	51	52	-	-	HYPH	I-NP
+O	52	56	time	time	NN	I-NP
+O	57	64	parents	parent	NNS	I-NP
+O	65	68	and	and	CC	O
+O	69	75	female	female	JJ	B-NP
+O	76	79	and	and	CC	I-NP
+O	80	84	male	male	JJ	I-NP
+O	85	93	informal	informal	JJ	I-NP
+O	94	104	supporters	supporter	NNS	I-NP
+O	105	109	were	be	VBD	B-VP
+O	110	118	analysed	analyse	VBN	I-VP
+O	119	121	by	by	IN	B-PP
+O	122	131	discourse	discourse	NN	B-NP
+O	132	140	analysis	analysis	NN	I-NP
+O	140	141	.	.	.	O
+

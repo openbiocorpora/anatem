@@ -1,0 +1,70 @@
+O	0	10	Refinement	Refinement	NN	B-NP
+
+O	11	12	R	R	NN	B-NP
+O	12	13	[	[	(	O
+O	13	14	F	F	NN	B-NP
+O	15	16	2	2	CD	I-NP
+O	17	18	>	>	SYM	O
+O	19	25	2sigma	2sigma	SYM	B-NP
+O	25	26	(	(	(	O
+O	26	27	F	F	NN	B-NP
+O	28	29	2	2	CD	I-NP
+O	29	30	)	)	)	O
+O	30	31	]	]	)	O
+O	32	33	=	=	SYM	B-VP
+O	34	35	0	0	CD	B-NP
+O	35	36	.	.	SYM	I-NP
+O	36	39	052	052	CD	I-NP
+
+O	40	42	wR	wR	NN	B-NP
+O	42	43	(	(	(	O
+O	43	44	F	F	NN	B-NP
+O	45	46	2	2	CD	I-NP
+O	46	47	)	)	)	O
+O	48	49	=	=	SYM	B-VP
+O	50	51	0	0	CD	B-NP
+O	51	52	.	.	SYM	I-NP
+O	52	55	132	132	CD	I-NP
+
+O	56	57	S	S	NN	B-NP
+O	58	59	=	=	SYM	B-VP
+O	60	61	1	1	CD	B-NP
+O	61	62	.	.	.	O
+O	62	64	02	02	CD	O
+
+O	65	69	3804	3804	CD	B-NP
+O	70	81	reflections	reflection	NNS	I-NP
+
+O	82	85	229	229	CD	B-NP
+O	86	96	parameters	parameter	NNS	I-NP
+
+O	97	99	67	67	CD	B-NP
+O	100	110	restraints	restraint	NNS	I-NP
+
+O	111	112	H	H	NN	B-NP
+O	112	113	-	-	HYPH	I-NP
+O	113	117	atom	atom	NN	I-NP
+O	118	128	parameters	parameter	NNS	I-NP
+O	129	140	constrained	constrain	VBD	B-VP
+
+O	141	152	Deltarhomax	Deltarhomax	NN	B-NP
+O	153	154	=	=	SYM	B-VP
+O	155	156	0	0	CD	B-NP
+O	156	157	.	.	SYM	I-NP
+O	157	159	56	56	CD	I-NP
+O	160	161	e	e	NN	I-NP
+O	162	163	A	A	NN	I-NP
+O	163	164	-	-	HYPH	I-NP
+O	164	165	3	3	CD	I-NP
+
+O	166	177	Deltarhomin	Deltarhomin	NN	B-NP
+O	178	179	=	=	SYM	B-VP
+O	180	181	-	-	SYM	B-NP
+O	181	182	0	0	CD	I-NP
+O	182	183	.	.	SYM	I-NP
+O	183	185	38	38	CD	I-NP
+O	186	187	e	e	NN	I-NP
+O	188	189	A	A	NN	I-NP
+O	189	190	-	-	HYPH	I-NP
+O	190	191	3	3	CD	I-NP
+

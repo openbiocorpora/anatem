@@ -1,0 +1,83 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	27	EEKN	EEKN	NN	B-NP
+O	28	31	was	be	VBD	B-VP
+O	32	43	responsible	responsible	JJ	B-ADJP
+O	44	47	for	for	IN	B-PP
+O	48	52	data	datum	NNS	B-NP
+O	53	63	collection	collection	NN	I-NP
+O	63	64	,	,	,	O
+O	65	76	statistical	statistical	JJ	B-NP
+O	77	85	analysis	analysis	NN	I-NP
+O	86	89	and	and	CC	O
+O	90	98	drafting	draft	VBG	B-VP
+O	99	102	the	the	DT	B-NP
+O	103	113	manuscript	manuscript	NN	I-NP
+O	113	114	.	.	.	O
+
+O	115	119	SAGN	SAGN	NN	B-NP
+O	120	123	and	and	CC	I-NP
+O	124	126	YW	YW	NN	I-NP
+O	127	135	involved	involve	VBN	B-VP
+O	136	138	in	in	IN	B-PP
+O	139	143	data	datum	NNS	B-NP
+O	144	154	collection	collection	NN	I-NP
+O	155	158	and	and	CC	O
+O	159	165	helped	help	VBD	B-VP
+O	166	170	with	with	IN	B-PP
+O	171	174	the	the	DT	B-NP
+O	175	179	data	datum	NNS	I-NP
+O	180	188	analysis	analysis	NN	I-NP
+O	188	189	.	.	.	O
+
+O	190	192	AS	AS	NNS	B-NP
+O	193	199	helped	help	VBD	B-VP
+O	200	202	in	in	IN	B-PP
+O	203	207	data	datum	NNS	B-NP
+O	208	216	analysis	analysis	NN	I-NP
+O	216	217	.	.	.	O
+
+O	218	221	EST	EST	NN	B-NP
+O	222	225	and	and	CC	I-NP
+O	226	228	JL	JL	NN	I-NP
+O	229	237	directed	direct	VBD	B-VP
+O	238	241	the	the	DT	B-NP
+O	242	247	study	study	NN	I-NP
+O	248	251	and	and	CC	O
+O	252	258	helped	help	VBN	B-VP
+O	259	261	in	in	IN	B-PP
+O	262	270	revising	revise	VBG	B-VP
+O	271	274	the	the	DT	B-NP
+O	275	285	manuscript	manuscript	NN	I-NP
+O	285	286	.	.	.	O
+
+O	287	291	RMVD	RMVD	NN	B-NP
+O	292	298	helped	help	VBD	B-VP
+O	299	301	in	in	IN	B-PP
+O	302	306	data	datum	NNS	B-NP
+O	307	315	analysis	analysis	NN	I-NP
+O	315	316	,	,	,	O
+O	317	331	interpretation	interpretation	NN	B-NP
+O	332	334	of	of	IN	B-PP
+O	335	338	the	the	DT	B-NP
+O	339	346	results	result	NNS	I-NP
+O	347	350	and	and	CC	O
+O	351	354	led	lead	VBD	B-VP
+O	355	362	writing	writing	NN	B-NP
+O	363	365	of	of	IN	B-PP
+O	366	369	the	the	DT	B-NP
+O	370	380	manuscript	manuscript	NN	I-NP
+O	380	381	.	.	.	O
+
+O	382	385	All	All	DT	B-NP
+O	386	393	authors	author	NNS	I-NP
+O	394	398	read	read	VBD	B-VP
+O	399	402	and	and	CC	I-VP
+O	403	411	approved	approve	VBD	I-VP
+O	412	415	the	the	DT	B-NP
+O	416	421	final	final	JJ	I-NP
+O	422	432	manuscript	manuscript	NN	I-NP
+O	432	433	.	.	.	O
+

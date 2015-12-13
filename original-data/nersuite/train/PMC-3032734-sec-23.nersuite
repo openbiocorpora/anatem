@@ -1,0 +1,53 @@
+O	0	11	Statistical	Statistical	JJ	B-NP
+O	12	20	analysis	analysis	NN	I-NP
+
+O	21	24	All	All	DT	B-NP
+O	25	36	statistical	statistical	JJ	I-NP
+O	37	45	analyses	analysis	NNS	I-NP
+O	46	50	were	be	VBD	B-VP
+O	51	60	performed	perform	VBN	I-VP
+O	61	66	using	use	VBG	B-VP
+O	67	73	SPSS13	SPSS13	NN	B-NP
+O	73	74	.	.	.	O
+O	74	75	0	0	CD	B-NP
+O	76	84	software	software	NN	I-NP
+O	84	85	.	.	.	O
+
+O	86	89	The	The	DT	B-NP
+O	90	101	differences	difference	NNS	I-NP
+O	102	109	between	between	IN	B-PP
+O	110	116	groups	group	NNS	B-NP
+O	117	121	were	be	VBD	B-VP
+O	122	130	compared	compare	VBN	I-VP
+O	131	136	using	use	VBG	B-VP
+O	137	144	Student	Student	NN	B-NP
+O	144	145	'	'	POS	B-NP
+O	145	146	s	s	NN	I-NP
+O	147	148	t	t	NN	I-NP
+O	148	149	-	-	HYPH	O
+O	149	153	test	test	NN	B-NP
+O	153	154	,	,	,	O
+O	155	158	and	and	CC	O
+O	159	163	data	datum	NNS	B-NP
+O	164	168	were	be	VBD	B-VP
+O	169	178	expressed	express	VBN	I-VP
+O	179	181	as	as	IN	B-PP
+O	182	186	mean	mean	NN	B-NP
+O	187	188	+	+	SYM	O
+O	188	189	/	/	SYM	O
+O	189	190	-	-	HYPH	O
+O	191	193	SD	SD	NN	B-NP
+O	193	194	.	.	.	O
+
+O	195	206	Statistical	Statistical	JJ	B-NP
+O	207	217	difference	difference	NN	I-NP
+O	218	221	was	be	VBD	B-VP
+O	222	230	accepted	accept	VBN	I-VP
+O	231	233	at	at	IN	B-PP
+O	234	235	P	P	NN	B-NP
+O	235	236	<	<	SYM	O
+O	236	237	0	0	CD	B-NP
+O	237	238	.	.	SYM	I-NP
+O	238	240	05	05	CD	I-NP
+O	240	241	.	.	.	O
+

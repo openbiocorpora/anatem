@@ -1,0 +1,32 @@
+O	0	10	Background	Background	NN	B-NP
+
+O	11	23	Inflammation	Inflammation	NN	B-NP
+O	24	29	plays	play	VBZ	B-VP
+O	30	31	a	a	DT	B-NP
+O	32	40	critical	critical	JJ	I-NP
+O	41	45	role	role	NN	I-NP
+O	46	48	in	in	IN	B-PP
+B-Pathological_formation	49	55	plaque	plaque	NN	B-NP
+O	56	66	initiation	initiation	NN	I-NP
+O	66	67	,	,	,	O
+O	68	79	progression	progression	NN	B-NP
+O	79	80	,	,	,	O
+O	81	84	and	and	CC	O
+O	85	95	disruption	disruption	NN	B-NP
+O	95	96	.	.	.	O
+
+O	97	99	As	As	IN	B-PP
+O	100	104	such	such	JJ	B-NP
+O	104	105	,	,	,	I-NP
+O	106	118	inflammation	inflammation	NN	I-NP
+O	119	129	represents	represent	VBZ	B-VP
+O	130	132	an	an	DT	B-NP
+O	133	141	emerging	emerge	VBG	I-NP
+O	142	148	target	target	NN	I-NP
+O	149	152	for	for	IN	B-PP
+O	153	156	the	the	DT	B-NP
+O	157	166	treatment	treatment	NN	I-NP
+O	167	169	of	of	IN	B-PP
+O	170	185	atherosclerosis	atherosclerosis	NN	B-NP
+O	185	186	.	.	.	O
+

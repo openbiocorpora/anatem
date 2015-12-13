@@ -1,0 +1,28 @@
+O	0	16	Acknowledgements	Acknowledgement	NNS	B-NP
+
+O	17	20	The	The	DT	B-NP
+O	21	28	authors	author	NNS	I-NP
+O	29	34	would	would	MD	B-VP
+O	35	39	like	like	VB	I-VP
+O	40	42	to	to	TO	I-VP
+O	43	50	express	express	VB	I-VP
+O	51	56	their	their	PRP$	B-NP
+O	57	66	gratitude	gratitude	NN	I-NP
+O	67	69	to	to	TO	B-PP
+O	70	72	Dr	Dr	NNP	B-NP
+O	72	73	.	.	.	I-NP
+O	74	81	Mahasti	Mahasti	NNP	I-NP
+O	82	90	Alizadeh	Alizadeh	NNP	I-NP
+O	91	94	for	for	IN	B-PP
+O	95	98	her	her	PRP$	B-NP
+O	99	109	assistance	assistance	NN	I-NP
+O	110	112	in	in	IN	B-PP
+O	113	116	the	the	DT	B-NP
+O	117	121	data	datum	NNS	I-NP
+O	122	130	analysis	analysis	NN	I-NP
+O	131	134	and	and	CC	O
+O	135	144	designing	design	VBG	B-VP
+O	145	148	the	the	DT	B-NP
+O	149	162	questionnaire	questionnaire	NN	I-NP
+O	162	163	.	.	.	O
+

@@ -1,0 +1,119 @@
+Methotrexate	O
+osteopathy	O
+in	O
+rheumatic	O
+disease	O
+.	O
+
+OBJECTIVE	O
+:	O
+
+To	O
+determine	O
+whether	O
+two	O
+adults	O
+with	O
+stress	O
+fractures	O
+receiving	O
+low	O
+weekly	O
+doses	O
+of	O
+methotrexate	O
+had	O
+methotrexate	O
+osteopathy	O
+.	O
+
+CASE	O
+REPORTS	O
+:	O
+
+Two	O
+adult	O
+patients	O
+developed	O
+features	O
+consistent	O
+with	O
+methotrexate	O
+osteopathy	O
+while	O
+receiving	O
+low	O
+weekly	O
+doses	O
+of	O
+methotrexate	O
+.	O
+
+METHODS	O
+:	O
+
+Iliac	B-Multi-tissue_structure
+crest	I-Multi-tissue_structure
+biopsy	I-Multi-tissue_structure
+samples	I-Multi-tissue_structure
+were	O
+taken	O
+and	O
+bone	B-Tissue
+histomorphometry	O
+carried	O
+out	O
+.	O
+
+RESULTS	O
+:	O
+
+Symptoms	O
+resolved	O
+when	O
+the	O
+methotrexate	O
+was	O
+discontinued	O
+.	O
+
+Bone	B-Tissue
+histology	O
+showed	O
+changes	O
+consistent	O
+with	O
+osteoblast	B-Cell
+inhibition	O
+by	O
+methotrexate	O
+.	O
+
+CONCLUSIONS	O
+:	O
+
+When	O
+given	O
+in	O
+low	O
+doses	O
+for	O
+prolonged	O
+periods	O
+,	O
+methotrexate	O
+may	O
+have	O
+adverse	O
+effects	O
+on	O
+bone	B-Organ
+,	O
+particularly	O
+in	O
+post	O
+-	O
+menopausal	O
+women	O
+.	O
+

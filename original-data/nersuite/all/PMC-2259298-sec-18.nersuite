@@ -1,0 +1,52 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	26	All	All	DT	B-NP
+O	27	34	authors	author	NNS	I-NP
+O	35	46	contributed	contribute	VBD	B-VP
+O	47	49	to	to	TO	B-PP
+O	50	53	the	the	DT	B-NP
+O	54	65	development	development	NN	I-NP
+O	66	68	of	of	IN	B-PP
+O	69	72	the	the	DT	B-NP
+O	73	84	methodology	methodology	NN	I-NP
+O	84	85	.	.	.	O
+
+O	86	88	CY	CY	NN	B-NP
+O	89	92	and	and	CC	I-NP
+O	93	95	NZ	NZ	NN	I-NP
+O	96	99	led	lead	VBD	B-VP
+O	100	106	method	method	NN	B-NP
+O	107	124	conceptualization	conceptualization	NN	I-NP
+O	125	128	and	and	CC	O
+O	129	137	prepared	prepare	VBD	B-VP
+O	138	141	the	the	DT	B-NP
+O	142	150	original	original	JJ	I-NP
+O	151	156	draft	draft	NN	I-NP
+O	156	157	,	,	,	O
+O	158	163	which	which	WDT	B-NP
+O	164	167	was	be	VBD	B-VP
+O	168	175	revised	revise	VBN	I-VP
+O	176	178	by	by	IN	B-PP
+O	179	181	JR	JR	NN	B-NP
+O	181	182	.	.	.	O
+
+O	183	185	CY	CY	NN	B-NP
+O	186	189	and	and	CC	I-NP
+O	190	192	VD	VD	NN	I-NP
+O	193	202	performed	perform	VBD	B-VP
+O	203	207	most	most	JJS	B-NP
+O	208	223	implementations	implementation	NNS	I-NP
+O	223	224	.	.	.	O
+
+O	225	228	All	All	DT	B-NP
+O	229	236	authors	author	NNS	I-NP
+O	237	241	read	read	VBD	B-VP
+O	242	245	and	and	CC	I-VP
+O	246	254	approved	approve	VBD	I-VP
+O	255	258	the	the	DT	B-NP
+O	259	264	final	final	JJ	I-NP
+O	265	275	manuscript	manuscript	NN	I-NP
+O	275	276	.	.	.	O
+

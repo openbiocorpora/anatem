@@ -1,0 +1,20 @@
+O	0	4	View	View	NN	B-NP
+O	5	7	of	of	IN	B-PP
+O	8	11	the	the	DT	B-NP
+O	12	21	structure	structure	NN	I-NP
+O	22	24	of	of	IN	B-PP
+O	25	28	the	the	DT	B-NP
+O	29	34	title	title	NN	I-NP
+O	35	43	compound	compound	NN	I-NP
+O	44	49	along	along	IN	B-PP
+O	50	53	the	the	DT	B-NP
+O	54	55	a	a	DT	I-NP
+O	56	60	axis	axis	NN	I-NP
+O	61	71	displaying	display	VBG	B-VP
+O	72	78	chains	chain	NNS	B-NP
+O	79	90	alternating	alternate	VBG	B-VP
+O	91	95	with	with	IN	B-PP
+O	96	101	amine	amine	NN	B-NP
+O	102	108	groups	group	NNS	I-NP
+O	108	109	.	.	.	O
+

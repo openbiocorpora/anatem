@@ -1,0 +1,23 @@
+O	0	10	Additional	Additional	JJ	B-NP
+O	11	15	File	File	NN	I-NP
+O	16	17	1	1	CD	I-NP
+
+O	18	26	Appendix	Appendix	NNP	B-NP
+O	27	28	1	1	CD	I-NP
+O	28	29	.	.	.	O
+
+O	30	41	Indications	Indication	NNS	B-NP
+O	42	45	for	for	IN	B-PP
+B-Organ	46	51	liver	liver	NN	B-NP
+O	52	60	function	function	NN	I-NP
+O	61	66	tests	test	NNS	I-NP
+O	67	71	with	with	IN	B-PP
+O	72	74	no	no	DT	B-NP
+O	75	82	obvious	obvious	JJ	I-NP
+B-Organ	83	88	liver	liver	NN	I-NP
+O	89	96	disease	disease	NN	I-NP
+O	96	97	,	,	,	O
+O	98	101	and	and	CC	O
+O	102	112	consequent	consequent	JJ	B-NP
+O	113	127	investigations	investigation	NNS	I-NP
+

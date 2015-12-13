@@ -1,0 +1,15 @@
+O	0	10	Percentage	Percentage	NN	B-NP
+O	11	19	reported	report	VBD	B-VP
+O	20	30	purchasing	purchase	VBG	B-NP
+O	31	41	intentions	intention	NNS	I-NP
+O	41	42	,	,	,	O
+O	43	52	comparing	compare	VBG	B-VP
+O	53	56	ITN	ITN	NN	B-NP
+O	56	57	-	-	HYPH	O
+O	57	63	owning	own	VBG	B-VP
+O	64	66	to	to	TO	B-PP
+O	67	70	non	non	AFX	B-NP
+O	70	71	-	-	HYPH	I-NP
+O	71	77	owning	own	VBG	B-VP
+O	78	88	households	household	NNS	B-NP
+

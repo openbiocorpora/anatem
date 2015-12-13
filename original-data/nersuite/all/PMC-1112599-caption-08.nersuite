@@ -1,0 +1,22 @@
+O	0	3	The	The	DT	B-NP
+O	4	8	most	most	RBS	I-NP
+O	9	15	highly	highly	RB	I-NP
+O	16	27	represented	represent	VBN	I-NP
+O	28	32	gene	gene	NN	I-NP
+O	33	41	ontology	ontology	NN	I-NP
+O	42	48	themes	theme	NNS	I-NP
+O	49	51	in	in	IN	B-PP
+O	52	55	the	the	DT	B-NP
+B-Cell	56	67	neurosphere	neurosphere	NN	I-NP
+O	68	70	vs	v	NNS	I-NP
+O	70	71	.	.	.	O
+O	72	86	differentiated	differentiate	VBN	B-NP
+B-Cell	87	92	cells	cell	NNS	I-NP
+O	93	103	comparison	comparison	NN	I-NP
+O	104	105	(	(	(	O
+O	105	106	F	F	NN	B-NP
+O	106	107	-	-	HYPH	B-NP
+O	107	108	G	G	NN	I-NP
+O	108	109	)	)	)	O
+O	109	110	.	.	.	O
+

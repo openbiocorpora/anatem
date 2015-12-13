@@ -1,0 +1,27 @@
+O	0	10	Comparison	Comparison	NN	B-NP
+O	11	13	of	of	IN	B-PP
+O	14	17	the	the	DT	B-NP
+O	18	27	Predicted	Predicted	NNP	I-NP
+O	28	31	Irr	Irr	NNP	I-NP
+O	32	39	Regulon	Regulon	NNP	I-NP
+O	40	43	and	and	CC	O
+O	44	47	ICE	ICE	NN	B-NP
+O	48	54	Motifs	Motif	NNS	I-NP
+O	55	59	with	with	IN	B-PP
+O	60	63	the	the	DT	B-NP
+O	64	73	Published	Published	NNP	I-NP
+O	74	84	Expression	Expression	NNP	I-NP
+O	85	95	Microarray	Microarray	NNP	I-NP
+O	96	100	Data	Data	NNP	I-NP
+O	101	104	for	for	IN	B-PP
+O	105	109	Iron	Iron	NNP	B-NP
+O	109	110	-	-	HYPH	B-NP
+O	111	114	and	and	CC	I-NP
+O	115	118	Irr	Irr	NN	I-NP
+O	118	119	-	-	HYPH	O
+O	119	127	Affected	Affect	VBN	B-VP
+O	128	133	Genes	Genes	NNP	B-NP
+O	134	136	in	in	IN	B-PP
+O	137	151	Bradyrhizobium	Bradyrhizobium	NNP	B-NP
+O	152	161	japonicum	japonicum	NN	I-NP
+

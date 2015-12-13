@@ -1,0 +1,50 @@
+Model	O
+of	O
+how	O
+estrogen	O
+induces	O
+DNA	O
+damage	O
+.	O
+
+Estrogen	O
+enters	O
+the	O
+cell	B-Cell
+and	O
+is	O
+bound	O
+by	O
+the	O
+ER	O
+.	O
+
+The	O
+dimeric	O
+ER	O
+-	O
+estrogen	O
+complex	O
+enters	O
+the	O
+nucleus	B-Cellular_component
+and	O
+induces	O
+AID	O
+expression	O
+.	O
+
+This	O
+leads	O
+to	O
+an	O
+increase	O
+in	O
+mutations	O
+and	O
+translocations	O
+,	O
+and	O
+potentially	O
+cancer	B-Cancer
+

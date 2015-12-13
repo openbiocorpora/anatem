@@ -1,0 +1,8 @@
+O	0	5	Click	Click	NN	B-NP
+O	6	10	here	here	RB	B-ADVP
+O	11	14	for	for	IN	B-PP
+O	15	25	additional	additional	JJ	B-NP
+O	26	30	data	datum	NNS	I-NP
+O	31	35	file	file	NN	I-NP
+O	35	36	.	.	.	O
+

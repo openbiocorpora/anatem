@@ -1,0 +1,9 @@
+O	0	10	Parameters	Parameter	NNS	B-NP
+O	11	18	derived	derive	VBN	B-VP
+O	19	23	from	from	IN	B-PP
+O	24	34	normalized	normalize	VBN	B-NP
+O	35	43	averaged	averaged	JJ	I-NP
+O	44	48	data	datum	NNS	I-NP
+O	49	55	across	across	IN	B-PP
+O	56	68	participants	participant	NNS	B-NP
+

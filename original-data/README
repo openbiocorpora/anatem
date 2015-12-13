@@ -1,0 +1,123 @@
+This package contains the data of the extended Anatomical Entity
+Mention (AnatEM) corpus, version 1.0.2.
+
+This README provides a brief overview of the package contents. See the
+LICENSE file included in the package for the data license, the
+manuscript referenced at the bottom of this file for an introduction
+of the corpus, and the project homepage
+
+    http://nactem.ac.uk/anatomytagger/
+
+for more information.
+
+
+CONTENTS
+
+This package contains the following:
+
+* README:                 this file
+* LICENSE:                licenses of the texts and annotations
+* standoff:               annotations in standoff format
+* conll:                  annotations in CoNLL format
+* nersuite:               annotations in NERsuite format
+* splits:                 definitions of corpus document subsets
+* scripts:                scripts for working with the corpus data
+
+The directories standoff, conll and nersuite contain the corpus
+documents in various formats (see below). Each contains the
+subdirectories all, train, devel, and test, corresponding to all
+documents, training set documents, etc.
+
+The directory splits/ contains the following lists of documents:
+
+* train-documents.list:   training subset
+* devel-documents.list:   development subset
+* test-documents.list:    test subset
+* general-documents.list: general domain subset
+* cancer-documents.list:  cancer domain subset
+
+Note that train/devel/test and general/cancer constitute partitions of
+all the documents, but e.g. test/general do not (the intersection of
+test and general represents general-domain test documents, etc.)
+
+The directory scripts/ contains the following scripts:
+
+* evalbio.pl:             evaluate BIO sequence against gold
+* evalso.py:              evaluate standoff data against gold
+* partition-files.sh:     partition files based on list of names
+
+partition-files.sh can be run e.g. as follows to create the train, devel,
+test split in the directory standoff/:
+
+    ./scripts/partition-files.sh standoff/all/ standoff/ splits/{train,devel,test}-documents.list
+
+Run evalbio.pl or evalso.py with the -h argument for usage.
+
+FORMAT
+
+The corpus data is provided in the following formats.
+
+CoNLL format
+
+The data in the conll/ directory are provided in the simple
+line-oriented, TAB-separated format used e.g. in CoNLL shared tasks
+(see e.g. http://www.cnts.ua.ac.be/conll2002/ner/). Each line contains
+two TAB-separated columns: the token text and the tag, for
+example:
+
+white   B-Multi-tissue_structure
+matter  I-Multi-tissue_structure
+of      O
+rat     O
+spinal  B-Organ
+cord    I-Organ
+
+Each tag consist of one of the letters B, I or O (for "begin", "in",
+and "out"), and the type of the entity for the B and I tags.
+
+NERsuite format
+
+The data in the nersuite/ directory are provided in the variant of the
+CoNLL format (see above) applied by the NERsuite toolkit. Each line
+contains the following TAB-separated columns: tag, start and end
+offsets, token text, lemma, POS tag, and chunk tag (the latter three
+columns were generated using nersuite_gtagger). For example:
+
+B-Multi-tissue_structure        579     584     white   white   JJ      I-NP
+I-Multi-tissue_structure        585     591     matter  matter  NN      I-NP
+O       592     594     of      of      IN      B-PP
+O       595     598     rat     rat     NN      B-NP
+B-Organ 599     605     spinal  spinal  JJ      I-NP
+I-Organ 606     610     cord    cord    NN      I-NP
+
+The tag and token text columns are identical to those in the
+CoNLL-formatted data.
+
+Standoff format
+
+The data in the standoff/ directory are provided in the standoff
+format used by the brat annotation tool (http://brat.nlplab.org/). For
+details of the format, see the documentation page
+http://brat.nlplab.org/standoff.html
+
+
+CONTACT
+
+For any queries relating to the corpus, please contact Sampo Pyysalo
+<sampo.pyysalo@gmail.com>
+
+
+CHANGELOG
+
+* 1.0.2 (15.10.2013): first public release
+
+
+REFERENCES
+
+The corpus is presented in the following manuscript. Please attribute
+the corpus by citing this paper.
+
+* Sampo Pyysalo and Sophia Ananiadou (2013). Anatomical Entity Mention
+  Recognition at Literature Scale. Bioinformatics (to appear).
+
+The project page is located at http://nactem.ac.uk/anatomytagger/

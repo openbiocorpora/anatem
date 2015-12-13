@@ -1,0 +1,55 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	25	CM	CM	NN	B-NP
+O	25	26	,	,	,	O
+O	27	30	JRH	JRH	NN	B-NP
+O	30	31	,	,	,	O
+O	32	35	HJP	HJP	NN	B-NP
+O	35	36	,	,	,	O
+O	37	40	and	and	CC	O
+O	41	43	JH	JH	NN	B-NP
+O	44	51	carried	carry	VBD	B-VP
+O	52	58	animal	animal	JJ	B-NP
+O	59	66	studies	study	NNS	I-NP
+O	66	67	.	.	.	O
+
+O	68	70	CM	CM	NN	B-NP
+O	71	80	performed	perform	VBD	B-VP
+O	81	84	the	the	DT	B-NP
+O	85	96	statistical	statistical	JJ	I-NP
+O	97	105	analysis	analysis	NN	I-NP
+O	105	106	.	.	.	O
+
+O	107	110	JLK	JLK	NN	B-NP
+O	111	120	conceived	conceive	VBD	B-VP
+O	121	123	of	of	IN	B-PP
+O	124	127	the	the	DT	B-NP
+O	128	133	study	study	NN	I-NP
+O	133	134	,	,	,	O
+O	135	147	participated	participate	VBD	B-VP
+O	148	150	in	in	IN	B-PP
+O	151	154	its	its	PRP$	B-NP
+O	155	161	design	design	NN	I-NP
+O	162	165	and	and	CC	I-NP
+O	166	178	coordination	coordination	NN	I-NP
+O	178	179	,	,	,	O
+O	180	183	and	and	CC	O
+O	184	191	drafted	draft	VBD	B-VP
+O	192	195	and	and	CC	O
+O	196	202	edited	edit	VBD	B-VP
+O	203	206	the	the	DT	B-NP
+O	207	217	manuscript	manuscript	NN	I-NP
+O	217	218	.	.	.	O
+
+O	219	222	All	All	DT	B-NP
+O	223	230	authors	author	NNS	I-NP
+O	231	235	read	read	VBD	B-VP
+O	236	239	and	and	CC	I-VP
+O	240	248	approved	approve	VBD	I-VP
+O	249	252	the	the	DT	B-NP
+O	253	258	final	final	JJ	I-NP
+O	259	269	manuscript	manuscript	NN	I-NP
+O	269	270	.	.	.	O
+

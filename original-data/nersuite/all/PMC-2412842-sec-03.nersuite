@@ -1,0 +1,14 @@
+O	0	9	Competing	Compete	VBG	B-VP
+O	10	19	interests	interest	NNS	B-NP
+
+O	20	23	The	The	DT	B-NP
+O	24	31	authors	author	NNS	I-NP
+O	32	39	declare	declare	VBP	B-VP
+O	40	44	that	that	IN	B-SBAR
+O	45	49	they	they	PRP	B-NP
+O	50	54	have	have	VBP	B-VP
+O	55	57	no	no	DT	B-NP
+O	58	67	competing	compete	VBG	I-NP
+O	68	77	interests	interest	NNS	I-NP
+O	77	78	.	.	.	O
+

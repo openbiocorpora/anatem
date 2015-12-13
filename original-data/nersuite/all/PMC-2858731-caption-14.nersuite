@@ -1,0 +1,31 @@
+O	0	10	Additional	Additional	JJ	B-NP
+O	11	15	file	file	NN	I-NP
+O	16	17	3	3	CD	I-NP
+
+O	18	25	Primers	Primer	NNS	B-NP
+O	26	30	used	use	VBN	B-VP
+O	31	33	in	in	IN	B-PP
+O	34	38	this	this	DT	B-NP
+O	39	44	study	study	NN	I-NP
+O	44	45	.	.	.	O
+
+O	46	49	All	All	DT	B-NP
+O	50	52	of	of	IN	B-PP
+O	53	56	the	the	DT	B-NP
+O	57	64	primers	primer	NNS	I-NP
+O	65	69	used	use	VBN	B-VP
+O	70	73	for	for	IN	B-PP
+O	74	84	generating	generate	VBG	B-VP
+O	85	88	PCR	PCR	NN	B-NP
+O	89	97	products	product	NNS	I-NP
+O	98	101	for	for	IN	B-PP
+O	102	116	microinjection	microinjection	NN	B-NP
+O	117	120	and	and	CC	I-NP
+O	121	125	site	site	NN	I-NP
+O	125	126	-	-	HYPH	B-NP
+O	126	132	direct	direct	JJ	I-NP
+O	133	144	mutagenesis	mutagenesis	NN	I-NP
+O	145	148	are	be	VBP	B-VP
+O	149	155	listed	list	VBN	I-VP
+O	155	156	.	.	.	O
+

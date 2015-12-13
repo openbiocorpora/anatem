@@ -1,0 +1,34 @@
+Background	O
+
+HIV	O
+-	O
+1	O
+infectivity	O
+depends	O
+on	O
+free	O
+cholesterol	O
+incorporated	O
+into	O
+the	O
+viral	O
+envelope	B-Cellular_component
+.	O
+
+Here	O
+,	O
+we	O
+analyze	O
+HIV	O
+infectivity	O
+in	O
+the	O
+presence	O
+of	O
+drugs	O
+that	O
+stimulate	O
+cholesterol	O
+efflux	O
+.	O
+

@@ -1,0 +1,32 @@
+O	0	10	Supporting	Support	VBG	B-VP
+O	11	22	Information	Information	NN	B-NP
+
+O	23	32	Alternate	Alternate	NNP	B-NP
+O	33	41	Language	Language	NNP	I-NP
+O	42	49	Article	Article	NNP	I-NP
+O	50	52	S1	S1	NNP	I-NP
+
+O	53	64	Translation	Translation	NN	B-NP
+O	65	67	of	of	IN	B-PP
+O	68	71	the	the	DT	B-NP
+O	72	82	manuscript	manuscript	NN	I-NP
+O	83	87	into	into	IN	B-PP
+O	88	94	French	French	JJ	B-NP
+O	95	97	by	by	IN	B-PP
+O	98	100	EL	EL	NN	B-NP
+
+O	101	102	(	(	(	O
+O	102	105	201	201	CD	B-NP
+O	106	108	KB	KB	NN	I-NP
+O	109	112	DOC	DOC	NN	I-NP
+O	112	113	)	)	)	O
+O	113	114	.	.	.	O
+
+O	115	120	Click	Click	NN	B-NP
+O	121	125	here	here	RB	B-ADVP
+O	126	129	for	for	IN	B-PP
+O	130	140	additional	additional	JJ	B-NP
+O	141	145	data	datum	NNS	I-NP
+O	146	150	file	file	NN	I-NP
+O	150	151	.	.	.	O
+

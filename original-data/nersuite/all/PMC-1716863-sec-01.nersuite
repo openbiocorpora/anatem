@@ -1,0 +1,34 @@
+O	0	10	Background	Background	NN	B-NP
+
+O	11	14	HIV	HIV	NN	B-NP
+O	14	15	-	-	HYPH	B-NP
+O	15	16	1	1	CD	I-NP
+O	17	28	infectivity	infectivity	NN	I-NP
+O	29	36	depends	depend	VBZ	B-VP
+O	37	39	on	on	IN	B-PP
+O	40	44	free	free	JJ	B-NP
+O	45	56	cholesterol	cholesterol	NN	I-NP
+O	57	69	incorporated	incorporate	VBN	B-VP
+O	70	74	into	into	IN	B-PP
+O	75	78	the	the	DT	B-NP
+O	79	84	viral	viral	JJ	I-NP
+B-Cellular_component	85	93	envelope	envelope	NN	I-NP
+O	93	94	.	.	.	O
+
+O	95	99	Here	Here	RB	B-ADVP
+O	99	100	,	,	,	O
+O	101	103	we	we	PRP	B-NP
+O	104	111	analyze	analyze	VBP	B-VP
+O	112	115	HIV	HIV	NN	B-NP
+O	116	127	infectivity	infectivity	NN	I-NP
+O	128	130	in	in	IN	B-PP
+O	131	134	the	the	DT	B-NP
+O	135	143	presence	presence	NN	I-NP
+O	144	146	of	of	IN	B-PP
+O	147	152	drugs	drug	NNS	B-NP
+O	153	157	that	that	WDT	B-NP
+O	158	167	stimulate	stimulate	VBP	B-VP
+O	168	179	cholesterol	cholesterol	NN	B-NP
+O	180	186	efflux	efflux	NN	I-NP
+O	186	187	.	.	.	O
+

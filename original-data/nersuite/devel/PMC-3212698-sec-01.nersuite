@@ -1,0 +1,21 @@
+O	0	10	Objectives	Objective	NNS	B-NP
+
+O	11	19	Evaluate	Evaluate	NN	B-NP
+O	20	33	relationships	relationship	NNS	I-NP
+O	34	41	between	between	IN	B-PP
+O	42	45	MRI	MRI	NN	B-NP
+O	46	49	and	and	CC	O
+O	50	58	clinical	clinical	JJ	B-NP
+O	58	59	/	/	SYM	I-NP
+O	59	69	laboratory	laboratory	JJ	I-NP
+O	69	70	/	/	SYM	I-NP
+O	70	82	radiographic	radiographic	JJ	I-NP
+O	83	91	findings	finding	NNS	I-NP
+O	92	94	in	in	IN	B-PP
+O	95	105	rheumatoid	rheumatoid	JJ	B-NP
+O	106	115	arthritis	arthritis	NN	I-NP
+O	116	117	(	(	(	O
+O	117	119	RA	RA	NN	B-NP
+O	119	120	)	)	)	O
+O	120	121	.	.	.	O
+

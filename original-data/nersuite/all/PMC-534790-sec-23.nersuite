@@ -1,0 +1,51 @@
+O	0	7	Authors	Author	NNS	B-NP
+O	7	8	'	'	POS	B-NP
+O	9	22	contributions	contribution	NNS	I-NP
+
+O	23	25	FR	FR	NN	B-NP
+O	26	35	initiated	initiate	VBN	B-VP
+O	36	39	and	and	CC	O
+O	40	48	designed	design	VBN	B-VP
+O	49	52	the	the	DT	B-NP
+O	53	61	research	research	NN	I-NP
+O	61	62	,	,	,	O
+O	63	72	collected	collect	VBD	B-VP
+O	73	76	and	and	CC	I-VP
+O	77	85	analyzed	analyze	VBD	I-VP
+O	86	89	the	the	DT	B-NP
+O	90	94	data	datum	NNS	I-NP
+O	95	98	and	and	CC	O
+O	99	104	wrote	write	VBD	B-VP
+O	105	108	the	the	DT	B-NP
+O	109	114	paper	paper	NN	I-NP
+O	114	115	.	.	.	O
+
+O	116	118	FO	FO	NN	B-NP
+O	119	122	was	be	VBD	B-VP
+O	123	126	the	the	DT	B-NP
+O	127	131	main	main	JJ	I-NP
+O	132	142	supervisor	supervisor	NN	I-NP
+O	142	143	,	,	,	O
+O	144	150	helped	help	VBN	B-VP
+O	151	153	in	in	IN	B-PP
+O	154	162	analysis	analysis	NN	B-NP
+O	162	163	,	,	,	O
+O	164	167	and	and	CC	O
+O	168	175	revised	revise	VBN	B-VP
+O	176	179	and	and	CC	O
+O	180	186	edited	edit	VBD	B-VP
+O	187	190	the	the	DT	B-NP
+O	191	197	drafts	draft	NNS	I-NP
+O	197	198	.	.	.	O
+
+O	199	201	MN	MN	NN	B-NP
+O	202	205	was	be	VBD	B-VP
+O	206	208	co	co	AFX	B-ADJP
+O	208	209	-	-	HYPH	B-NP
+O	210	220	supervisor	supervisor	NN	I-NP
+O	221	224	and	and	CC	O
+O	225	232	revised	revise	VBD	B-VP
+O	233	236	the	the	DT	B-NP
+O	237	243	drafts	draft	NNS	I-NP
+O	243	244	.	.	.	O
+

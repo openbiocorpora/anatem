@@ -1,0 +1,21 @@
+Results	O
+
+primary	B-Cancer
+pancreatic	I-Cancer
+sarcomas	I-Cancer
+are	O
+extremely	O
+rare	O
+.	O
+
+Pancreatic	B-Cancer
+sarcomas	I-Cancer
+are	O
+more	O
+aggressive	O
+than	O
+other	O
+pancreatic	B-Cancer
+neoplasms	I-Cancer
+.	O
+

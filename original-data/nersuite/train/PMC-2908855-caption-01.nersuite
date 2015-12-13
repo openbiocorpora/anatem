@@ -1,0 +1,20 @@
+O	0	3	The	The	DT	B-NP
+O	4	12	pedigree	pedigree	NN	I-NP
+O	13	15	of	of	IN	B-PP
+O	16	17	a	a	DT	B-NP
+O	18	24	Korean	Korean	JJ	I-NP
+O	25	31	family	family	NN	I-NP
+O	32	36	with	with	IN	B-PP
+B-Tissue	37	44	macular	macular	JJ	B-NP
+O	45	54	dystrophy	dystrophy	NN	I-NP
+O	55	68	demonstrating	demonstrate	VBG	B-VP
+O	69	72	the	the	DT	B-NP
+O	73	88	characteristics	characteristic	NNS	I-NP
+O	89	91	of	of	IN	B-PP
+O	92	94	an	an	DT	B-NP
+O	95	104	autosomal	autosomal	JJ	I-NP
+O	105	113	dominant	dominant	JJ	I-NP
+O	114	125	inheritance	inheritance	NN	I-NP
+O	126	131	trait	trait	NN	I-NP
+O	131	132	.	.	.	O
+

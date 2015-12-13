@@ -1,0 +1,22 @@
+O	0	11	Correlation	Correlation	NN	B-NP
+O	12	19	between	between	IN	B-PP
+B-Cell	20	25	sperm	sperm	NN	B-NP
+O	26	36	morphology	morphology	NN	I-NP
+O	37	40	and	and	CC	O
+B-Organism_substance	41	48	seminal	seminal	JJ	B-NP
+I-Organism_substance	49	55	plasma	plasma	NN	I-NP
+O	56	58	NO	NO	NN	I-NP
+O	59	60	(	(	(	O
+O	60	61	a	a	DT	O
+O	61	62	)	)	)	O
+O	63	66	and	and	CC	O
+O	67	72	TBARS	TBARS	NN	B-NP
+O	73	74	(	(	(	O
+O	74	75	b	b	NN	B-NP
+O	75	76	)	)	)	O
+O	77	83	levels	level	NNS	B-NP
+O	84	86	in	in	IN	B-PP
+O	87	91	both	both	DT	B-NP
+O	92	98	groups	group	NNS	I-NP
+O	98	99	.	.	.	O
+

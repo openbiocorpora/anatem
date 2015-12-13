@@ -1,0 +1,18 @@
+O	0	11	Transcripts	Transcript	NNS	B-NP
+O	12	23	Upregulated	Upregulate	VBN	B-VP
+O	24	26	in	in	IN	B-PP
+B-Cell	27	29	ST	ST	JJ	B-NP
+I-Cell	29	30	-	-	HYPH	I-NP
+I-Cell	30	33	HSC	HSC	NN	I-NP
+O	34	42	Compared	Compare	VBN	B-VP
+O	43	45	to	to	TO	B-PP
+B-Cell	46	48	LT	LT	NN	B-NP
+I-Cell	48	49	-	-	HYPH	O
+I-Cell	49	52	HSC	HSC	NN	B-NP
+
+O	53	54	(	(	(	O
+O	54	57	181	181	CD	B-NP
+O	58	60	KB	KB	NN	I-NP
+O	61	64	XLS	XLS	NN	I-NP
+O	64	65	)	)	)	O
+

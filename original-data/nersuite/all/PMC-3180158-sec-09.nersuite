@@ -1,0 +1,51 @@
+O	0	16	ACKNOWLEDGEMENTS	ACKNOWLEDGEMENTS	NNS	B-NP
+
+O	17	20	The	The	DT	B-NP
+O	21	28	authors	author	NNS	I-NP
+O	29	34	thank	thank	VBP	B-VP
+O	35	37	Mr	Mr	NNP	B-NP
+O	37	38	.	.	.	I-NP
+O	39	40	C	C	NNP	I-NP
+O	40	41	.	.	.	O
+
+O	42	49	Roberto	Roberto	NNP	B-NP
+O	50	53	for	for	IN	B-PP
+O	54	63	providing	provide	VBG	B-VP
+O	64	70	animal	animal	NN	B-NP
+O	71	75	care	care	NN	I-NP
+O	75	76	.	.	.	O
+
+O	77	81	This	This	DT	B-NP
+O	82	90	research	research	NN	I-NP
+O	91	94	was	be	VBD	B-VP
+O	95	104	supported	support	VBN	I-VP
+O	105	107	by	by	IN	B-PP
+O	108	111	the	the	DT	B-NP
+O	112	117	State	State	NNP	I-NP
+O	118	120	of	of	IN	B-PP
+O	121	124	Rio	Rio	NNP	B-NP
+O	125	127	de	de	IN	I-NP
+O	128	135	Janeiro	Janeiro	NNP	I-NP
+O	136	142	Carlos	Carlos	NNP	I-NP
+O	143	149	Chagas	Chagas	NNP	I-NP
+O	150	155	Filho	Filho	NNP	I-NP
+O	156	164	Research	Research	NNP	I-NP
+O	165	175	Foundation	Foundation	NNP	I-NP
+O	176	177	(	(	(	O
+O	177	183	FAPERJ	FAPERJ	NNP	B-NP
+O	183	184	)	)	)	O
+O	185	188	and	and	CC	O
+O	189	192	the	the	DT	B-NP
+O	193	205	Coordination	Coordination	NNP	I-NP
+O	206	209	for	for	IN	B-PP
+O	210	213	the	the	DT	B-NP
+O	214	225	Enhancement	Enhancement	NN	I-NP
+O	226	228	of	of	IN	B-PP
+O	229	235	Higher	Higher	NNP	B-NP
+O	236	245	Education	Education	NNP	I-NP
+O	246	255	Personnel	Personnel	NNP	I-NP
+O	256	257	(	(	(	O
+O	257	262	CAPES	CAPES	NN	B-NP
+O	262	263	)	)	)	O
+O	263	264	.	.	.	O
+

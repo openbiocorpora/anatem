@@ -1,0 +1,12 @@
+O	0	10	Challenges	Challenge	NNS	B-NP
+O	11	13	to	to	TO	B-PP
+O	14	22	creating	create	VBG	B-VP
+O	23	26	and	and	CC	I-VP
+O	27	39	implementing	implement	VBG	I-VP
+O	40	41	a	a	DT	B-NP
+O	42	55	perioperative	perioperative	JJ	I-NP
+O	56	64	glycemic	glycemic	JJ	I-NP
+O	65	72	control	control	NN	I-NP
+O	73	81	protocol	protocol	NN	I-NP
+O	81	82	.	.	.	O
+

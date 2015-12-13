@@ -1,0 +1,16 @@
+a	O
+,	O
+b	O
+Radiographs	O
+of	O
+the	O
+left	B-Organism_subdivision
+elbow	I-Organism_subdivision
+and	O
+forearm	B-Organism_subdivision
+5	O
+months	O
+after	O
+the	O
+surgery	O
+

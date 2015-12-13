@@ -1,0 +1,21 @@
+O	0	7	Results	Result	NNS	B-NP
+
+B-Cancer	8	15	primary	primary	JJ	B-NP
+I-Cancer	16	26	pancreatic	pancreatic	JJ	I-NP
+I-Cancer	27	35	sarcomas	sarcoma	NNS	I-NP
+O	36	39	are	be	VBP	B-VP
+O	40	49	extremely	extremely	RB	B-ADJP
+O	50	54	rare	rare	JJ	I-ADJP
+O	54	55	.	.	.	O
+
+B-Cancer	56	66	Pancreatic	Pancreatic	JJ	B-NP
+I-Cancer	67	75	sarcomas	sarcoma	NNS	I-NP
+O	76	79	are	be	VBP	B-VP
+O	80	84	more	more	RBR	B-ADJP
+O	85	95	aggressive	aggressive	JJ	I-ADJP
+O	96	100	than	than	IN	B-PP
+O	101	106	other	other	JJ	B-NP
+B-Cancer	107	117	pancreatic	pancreatic	JJ	I-NP
+I-Cancer	118	127	neoplasms	neoplasm	NNS	I-NP
+O	127	128	.	.	.	O
+

@@ -1,0 +1,119 @@
+O	0	12	Methotrexate	Methotrexate	NN	B-NP
+O	13	23	osteopathy	osteopathy	NN	I-NP
+O	24	26	in	in	IN	B-PP
+O	27	36	rheumatic	rheumatic	JJ	B-NP
+O	37	44	disease	disease	NN	I-NP
+O	44	45	.	.	.	O
+
+O	46	55	OBJECTIVE	OBJECTIVE	NN	B-NP
+O	55	56	:	:	:	O
+
+O	57	59	To	To	TO	B-VP
+O	60	69	determine	determine	VB	I-VP
+O	70	77	whether	whether	IN	B-SBAR
+O	78	81	two	two	CD	B-NP
+O	82	88	adults	adult	NNS	I-NP
+O	89	93	with	with	IN	B-PP
+O	94	100	stress	stress	NN	B-NP
+O	101	110	fractures	fracture	NNS	I-NP
+O	111	120	receiving	receive	VBG	B-VP
+O	121	124	low	low	JJ	B-NP
+O	125	131	weekly	weekly	JJ	I-NP
+O	132	137	doses	dose	NNS	I-NP
+O	138	140	of	of	IN	B-PP
+O	141	153	methotrexate	methotrexate	NN	B-NP
+O	154	157	had	have	VBD	B-VP
+O	158	170	methotrexate	methotrexate	NN	B-NP
+O	171	181	osteopathy	osteopathy	NN	I-NP
+O	181	182	.	.	.	O
+
+O	183	187	CASE	CASE	NN	B-NP
+O	188	195	REPORTS	REPORTS	NNS	I-NP
+O	195	196	:	:	:	O
+
+O	197	200	Two	Two	CD	B-NP
+O	201	206	adult	adult	JJ	I-NP
+O	207	215	patients	patient	NNS	I-NP
+O	216	225	developed	develop	VBD	B-VP
+O	226	234	features	feature	NNS	B-NP
+O	235	245	consistent	consistent	JJ	B-ADJP
+O	246	250	with	with	IN	B-PP
+O	251	263	methotrexate	methotrexate	NN	B-NP
+O	264	274	osteopathy	osteopathy	NN	I-NP
+O	275	280	while	while	IN	B-SBAR
+O	281	290	receiving	receive	VBG	B-VP
+O	291	294	low	low	JJ	B-NP
+O	295	301	weekly	weekly	JJ	I-NP
+O	302	307	doses	dose	NNS	I-NP
+O	308	310	of	of	IN	B-PP
+O	311	323	methotrexate	methotrexate	NN	B-NP
+O	323	324	.	.	.	O
+
+O	325	332	METHODS	METHODS	NNS	B-NP
+O	332	333	:	:	:	O
+
+B-Multi-tissue_structure	334	339	Iliac	Iliac	JJ	B-NP
+I-Multi-tissue_structure	340	345	crest	crest	NN	I-NP
+I-Multi-tissue_structure	346	352	biopsy	biopsy	NN	I-NP
+I-Multi-tissue_structure	353	360	samples	sample	NNS	I-NP
+O	361	365	were	be	VBD	B-VP
+O	366	371	taken	take	VBN	I-VP
+O	372	375	and	and	CC	O
+B-Tissue	376	380	bone	bone	NN	B-NP
+O	381	397	histomorphometry	histomorphometry	NN	I-NP
+O	398	405	carried	carry	VBD	B-VP
+O	406	409	out	out	RP	B-PRT
+O	409	410	.	.	.	O
+
+O	411	418	RESULTS	RESULTS	NNS	B-NP
+O	418	419	:	:	:	O
+
+O	420	428	Symptoms	Symptom	NNS	B-NP
+O	429	437	resolved	resolve	VBD	B-VP
+O	438	442	when	when	WRB	B-ADVP
+O	443	446	the	the	DT	B-NP
+O	447	459	methotrexate	methotrexate	NN	I-NP
+O	460	463	was	be	VBD	B-VP
+O	464	476	discontinued	discontinue	VBN	I-VP
+O	476	477	.	.	.	O
+
+B-Tissue	478	482	Bone	Bone	NN	B-NP
+O	483	492	histology	histology	NN	I-NP
+O	493	499	showed	show	VBD	B-VP
+O	500	507	changes	change	NNS	B-NP
+O	508	518	consistent	consistent	JJ	B-ADJP
+O	519	523	with	with	IN	B-PP
+B-Cell	524	534	osteoblast	osteoblast	NN	B-NP
+O	535	545	inhibition	inhibition	NN	I-NP
+O	546	548	by	by	IN	B-PP
+O	549	561	methotrexate	methotrexate	NN	B-NP
+O	561	562	.	.	.	O
+
+O	563	574	CONCLUSIONS	CONCLUSIONS	NNS	B-NP
+O	574	575	:	:	:	O
+
+O	576	580	When	When	WRB	B-ADVP
+O	581	586	given	give	VBN	B-PP
+O	587	589	in	in	IN	B-PP
+O	590	593	low	low	JJ	B-NP
+O	594	599	doses	dose	NNS	I-NP
+O	600	603	for	for	IN	B-PP
+O	604	613	prolonged	prolonged	JJ	B-NP
+O	614	621	periods	period	NNS	I-NP
+O	621	622	,	,	,	O
+O	623	635	methotrexate	methotrexate	NN	B-NP
+O	636	639	may	may	MD	B-VP
+O	640	644	have	have	VB	I-VP
+O	645	652	adverse	adverse	JJ	B-NP
+O	653	660	effects	effect	NNS	I-NP
+O	661	663	on	on	IN	B-PP
+B-Organ	664	668	bone	bone	NN	B-NP
+O	668	669	,	,	,	O
+O	670	682	particularly	particularly	RB	B-ADVP
+O	683	685	in	in	IN	B-PP
+O	686	690	post	post	AFX	B-NP
+O	690	691	-	-	HYPH	I-NP
+O	691	701	menopausal	menopausal	JJ	I-NP
+O	702	707	women	woman	NNS	I-NP
+O	707	708	.	.	.	O
+

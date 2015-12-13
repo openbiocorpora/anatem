@@ -1,0 +1,5 @@
+O	0	5	Click	Click	NN	B-NP
+O	6	10	here	here	RB	B-ADVP
+O	11	14	for	for	IN	B-PP
+O	15	19	file	file	NN	B-NP
+

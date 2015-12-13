@@ -1,0 +1,23 @@
+Loss	O
+of	O
+both	O
+apical	B-Cellular_component
+pathways	I-Cellular_component
+(	O
+bottom	O
+)	O
+allows	O
+astral	B-Cellular_component
+microtubules	I-Cellular_component
+(	O
+arrows	O
+)	O
+to	O
+form	O
+apically	O
+and	O
+basally	O
+in	O
+neuroblasts	B-Cell
+.	O
+

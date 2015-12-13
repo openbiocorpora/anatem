@@ -1,0 +1,23 @@
+O	0	16	Acknowledgements	Acknowledgement	NNS	B-NP
+
+O	17	19	We	We	PRP	B-NP
+O	20	25	would	would	MD	B-VP
+O	26	30	like	like	VB	I-VP
+O	31	33	to	to	TO	I-VP
+O	34	39	thank	thank	VB	I-VP
+O	40	43	our	our	PRP$	B-NP
+O	44	53	colleague	colleague	NN	I-NP
+O	54	56	Dr	Dr	NNP	I-NP
+O	56	57	.	.	.	I-NP
+O	58	66	Nikolaos	Nikolaos	NNP	I-NP
+O	67	80	Papathanasiou	Papathanasiou	NNP	I-NP
+O	81	84	for	for	IN	B-PP
+O	85	88	his	his	PRP$	B-NP
+O	89	99	assistance	assistance	NN	I-NP
+O	100	102	in	in	IN	B-PP
+O	103	113	performing	perform	VBG	B-VP
+O	114	117	the	the	DT	B-NP
+O	118	129	statistical	statistical	JJ	I-NP
+O	130	138	analysis	analysis	NN	I-NP
+O	138	139	.	.	.	O
+

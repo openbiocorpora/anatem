@@ -1,0 +1,5 @@
+O	0	7	Summary	Summary	NN	B-NP
+O	8	10	of	of	IN	B-PP
+O	11	21	instrument	instrument	NN	B-NP
+O	22	37	characteristics	characteristic	NNS	I-NP
+

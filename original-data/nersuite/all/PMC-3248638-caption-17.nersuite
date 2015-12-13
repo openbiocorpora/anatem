@@ -1,0 +1,14 @@
+O	0	1	(	(	(	B-LST
+O	1	4	iii	iii	LS	I-LST
+O	4	5	)	)	)	O
+O	6	9	HIV	HIV	NN	B-NP
+O	10	17	testing	testing	NN	I-NP
+O	18	26	response	response	NN	I-NP
+O	27	31	rate	rate	NN	I-NP
+O	32	34	by	by	IN	B-PP
+O	35	46	educational	educational	JJ	B-NP
+O	47	57	attainment	attainment	NN	I-NP
+O	58	61	and	and	CC	I-NP
+O	62	68	gender	gender	NN	I-NP
+O	68	69	.	.	.	O
+

@@ -1,0 +1,23 @@
+Magnetic	O
+resonance	O
+imaging	O
+of	O
+axial	O
+plan	O
+with	O
+intravenous	B-Immaterial_anatomical_entity
+contrast	O
+gadolinium	O
+-	O
+BOPTA	O
+demonstrating	O
+a	O
+mass	B-Pathological_formation
+adherent	O
+to	O
+the	O
+right	B-Multi-tissue_structure
+ventricular	I-Multi-tissue_structure
+wall	I-Multi-tissue_structure
+.	O
+

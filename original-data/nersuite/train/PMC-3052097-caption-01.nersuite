@@ -1,0 +1,45 @@
+O	0	3	The	The	DT	B-NP
+O	4	14	asymmetric	asymmetric	JJ	I-NP
+O	15	19	unit	unit	NN	I-NP
+O	20	22	of	of	IN	B-PP
+O	23	26	the	the	DT	B-NP
+O	27	32	title	title	NN	I-NP
+O	33	41	compound	compound	NN	I-NP
+O	42	46	with	with	IN	B-PP
+O	47	50	the	the	DT	B-NP
+O	51	57	atomic	atomic	JJ	I-NP
+O	58	67	labelling	labelling	NN	I-NP
+O	68	74	scheme	scheme	NN	I-NP
+O	74	75	.	.	.	I-NP
+O	75	87	Displacement	Displacement	NN	I-NP
+O	88	91	are	be	VBP	B-VP
+O	92	97	drawn	draw	VBN	I-VP
+O	98	100	at	at	IN	B-PP
+O	101	104	the	the	DT	B-NP
+O	105	107	50	50	CD	I-NP
+O	107	108	%	%	NN	I-NP
+O	109	120	probability	probability	NN	I-NP
+O	121	126	level	level	NN	I-NP
+O	126	127	.	.	.	O
+
+O	128	129	H	H	NN	B-NP
+O	130	135	atoms	atom	NNS	I-NP
+O	136	139	are	be	VBP	B-VP
+O	140	151	represented	represent	VBN	I-VP
+O	152	154	as	as	IN	B-PP
+O	155	160	small	small	JJ	B-NP
+O	161	168	spheres	sphere	NNS	I-NP
+O	169	171	of	of	IN	B-PP
+O	172	181	arbitrary	arbitrary	JJ	B-NP
+O	182	187	radii	radii	NN	I-NP
+O	187	188	.	.	.	O
+
+O	189	197	Hydrogen	Hydrogen	NN	B-NP
+O	198	203	bonds	bond	NNS	I-NP
+O	204	207	are	be	VBP	B-VP
+O	208	213	shown	show	VBN	I-VP
+O	214	216	as	as	IN	B-PP
+O	217	223	dashed	dashed	JJ	B-NP
+O	224	229	lines	line	NNS	I-NP
+O	229	230	.	.	.	O
+
